@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4244934160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a6517159cb23817c6a0f52c26dd4349
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40715f05bcb03f50a47d32a45317213d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/parts/256/c1034_flinn_head/C1034_Flinn_head.prefab
+Dependencies: []

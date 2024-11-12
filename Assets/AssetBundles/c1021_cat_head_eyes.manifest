@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3943074949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ff9fb920af4e5c0370fa47fc5f3d5ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07757d18d3ad222c2010babdc7e451ea
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/headanims/c1021_cat_head_eyes/Eyes_Rest.anim
+Dependencies: []

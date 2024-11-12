@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 570736765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dcfd3fa98c7f45e7fa66ce43a06eb2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07757d18d3ad222c2010babdc7e451ea
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/headanims/c1031_hood_head_eyes/Eyes_Rest.anim
+Dependencies: []

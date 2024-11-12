@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2037563895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed64e63626fd8bd5789b3a0defdda171
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07757d18d3ad222c2010babdc7e451ea
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/headanims/c1024_pirate_head_eyes/Eyes_Rest.anim
+Dependencies: []

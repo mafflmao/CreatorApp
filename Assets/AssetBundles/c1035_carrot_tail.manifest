@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1359920916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b417ae8d0b72dd2d55d1775f649f696
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40715f05bcb03f50a47d32a45317213d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/parts/256/c1035_carrot_tail/C1035_Carrot_Tail.prefab
+Dependencies: []

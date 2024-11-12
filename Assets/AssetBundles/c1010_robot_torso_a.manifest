@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3461373881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fa283c4472bc26450ad3af6b89cf96c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40715f05bcb03f50a47d32a45317213d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/parts/256/c1010_robot_torso_a/C1010_Robot_Torso_A.prefab
+Dependencies: []

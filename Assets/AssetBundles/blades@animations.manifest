@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3733323352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c97d6c36b73d83b0aba45e1fdaabf5d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e24db83fdc2550b1615669a08e4339fa
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/animations/controllers/full/Blades@Animations.controller
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2873433217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 610d32c5872d5cec17fe1efa8255b1ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40715f05bcb03f50a47d32a45317213d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/parts/256/c1030_skeleton_head/C1030_Skeleton_Head.prefab
+Dependencies: []

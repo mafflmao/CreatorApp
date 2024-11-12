@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4034403813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d79d280da85d8d2d3831f1b991fc4bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e24db83fdc2550b1615669a08e4339fa
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/animations/controllers/full/Archer@Animations.controller
+Dependencies: []

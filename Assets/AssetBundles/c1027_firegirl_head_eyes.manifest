@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1647164828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48c008a9a09a5ca60101ffdf9ea5ae5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07757d18d3ad222c2010babdc7e451ea
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/headanims/c1027_firegirl_head_eyes/Eyes_Rest.anim
+Dependencies: []

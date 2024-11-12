@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1449637123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db01a50a18a1c2b4273b7fca8b7af639
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40715f05bcb03f50a47d32a45317213d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/parts/256/c1023_robotgirl_head/C1023_Robotgirl_Head.prefab
+Dependencies: []

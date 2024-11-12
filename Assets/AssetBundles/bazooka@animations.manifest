@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1027429100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fcb8370ec57e8f3e57d37c032865b86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e24db83fdc2550b1615669a08e4339fa
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/animations/controllers/full/Bazooka@Animations.controller
+Dependencies: []

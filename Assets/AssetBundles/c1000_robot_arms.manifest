@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2801675327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ca5605404fe5171b69529d8dc90c9b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 40715f05bcb03f50a47d32a45317213d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/parts/256/c1000_robot_arms/C1000_Robot_Arms.prefab
+Dependencies: []

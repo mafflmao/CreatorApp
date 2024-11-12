@@ -1,0 +1,4327 @@
+ManifestFileVersion: 0
+CRC: 73707396
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: c1162_armor_shoulder_skull_r
+      Dependencies: {}
+    Info_1:
+      Name: c1286_armor_backpack_shakes
+      Dependencies: {}
+    Info_2:
+      Name: c1485_vampire_head
+      Dependencies: {}
+    Info_3:
+      Name: c1537_firedragon_torso
+      Dependencies: {}
+    Info_4:
+      Name: c1060_weaponsaw
+      Dependencies: {}
+    Info_5:
+      Name: c1652_ears_wolf_l
+      Dependencies: {}
+    Info_6:
+      Name: c2020_skullsharp_head_eyes
+      Dependencies: {}
+    Info_7:
+      Name: c1617_wland_legs
+      Dependencies: {}
+    Info_8:
+      Name: c1130_armor_leg_studdedleather_l
+      Dependencies: {}
+    Info_9:
+      Name: c1392_starfish
+      Dependencies: {}
+    Info_10:
+      Name: c2015_backpack_lampman
+      Dependencies: {}
+    Info_11:
+      Name: c600_mummy_armor_leg_r
+      Dependencies: {}
+    Info_12:
+      Name: c2051_bear_head
+      Dependencies: {}
+    Info_13:
+      Name: c1317_ears_trumpet_r
+      Dependencies: {}
+    Info_14:
+      Name: c1694_armor_shoulder_sparta_l
+      Dependencies: {}
+    Info_15:
+      Name: c601_insect_arms
+      Dependencies: {}
+    Info_16:
+      Name: c2021_commando_head
+      Dependencies: {}
+    Info_17:
+      Name: c1604_spark_tasset
+      Dependencies: {}
+    Info_18:
+      Name: c1333_dbrain_arms
+      Dependencies: {}
+    Info_19:
+      Name: c1026_blindelf_head
+      Dependencies: {}
+    Info_20:
+      Name: c1020_fryno_head
+      Dependencies: {}
+    Info_21:
+      Name: c1449_weapon_dragon
+      Dependencies: {}
+    Info_22:
+      Name: c1419_pegs_legs
+      Dependencies: {}
+    Info_23:
+      Name: c1198_armor_shoulder_metal_r
+      Dependencies: {}
+    Info_24:
+      Name: c602_girl_torso
+      Dependencies: {}
+    Info_25:
+      Name: c1707_sword_gear
+      Dependencies: {}
+    Info_26:
+      Name: c1444_bolton_unicorn
+      Dependencies: {}
+    Info_27:
+      Name: c1838_armor_helmet_jester
+      Dependencies: {}
+    Info_28:
+      Name: c2081_armor_helmet_flower
+      Dependencies: {}
+    Info_29:
+      Name: c1659_queen_arms
+      Dependencies: {}
+    Info_30:
+      Name: c601_insect_armor_arm_r
+      Dependencies: {}
+    Info_31:
+      Name: c1088_armor_leg_beatup_l
+      Dependencies: {}
+    Info_32:
+      Name: c1261_doomlander_legs
+      Dependencies: {}
+    Info_33:
+      Name: c1636_seahorse_head_eyes
+      Dependencies: {}
+    Info_34:
+      Name: c1642_weapon_doubler_kaosstaff
+      Dependencies: {}
+    Info_35:
+      Name: c1556_broom
+      Dependencies: {}
+    Info_36:
+      Name: c1586_diver_torso
+      Dependencies: {}
+    Info_37:
+      Name: c2034_boyc_head
+      Dependencies: {}
+    Info_38:
+      Name: c1699_hat_vespa
+      Dependencies: {}
+    Info_39:
+      Name: c1240_aviator_head_eyes
+      Dependencies: {}
+    Info_40:
+      Name: c1935_weapon_jstaff
+      Dependencies: {}
+    Info_41:
+      Name: c1156_armor_arm_blade_l
+      Dependencies: {}
+    Info_42:
+      Name: c1100_armor_leg_wingfoot_l
+      Dependencies: {}
+    Info_43:
+      Name: c1371_godrilla_head
+      Dependencies: {}
+    Info_44:
+      Name: c1310_zorro_head
+      Dependencies: {}
+    Info_45:
+      Name: c1140_armor_shoulder_cold_r
+      Dependencies: {}
+    Info_46:
+      Name: c1930_tiger_arms
+      Dependencies: {}
+    Info_47:
+      Name: c1143_armor_shoulder_magic_r
+      Dependencies: {}
+    Info_48:
+      Name: c2019_monster_head_eyes
+      Dependencies: {}
+    Info_49:
+      Name: c1944_weapon_bazooka_fish
+      Dependencies: {}
+    Info_50:
+      Name: c603_bird_armor_shoulder_l
+      Dependencies: {}
+    Info_51:
+      Name: c1543_spark_arms
+      Dependencies: {}
+    Info_52:
+      Name: c1380_tux_torso
+      Dependencies: {}
+    Info_53:
+      Name: c1453_skeleton_legs
+      Dependencies: {}
+    Info_54:
+      Name: c1836_ballerina_arms
+      Dependencies: {}
+    Info_55:
+      Name: c1955_rockhelm_head_eyes
+      Dependencies: {}
+    Info_56:
+      Name: d312_armor_leg_r
+      Dependencies: {}
+    Info_57:
+      Name: c1493_raptor_tail
+      Dependencies: {}
+    Info_58:
+      Name: c1328_humanf_head_eyes
+      Dependencies: {}
+    Info_59:
+      Name: c1494_raptor_legs
+      Dependencies: {}
+    Info_60:
+      Name: c2018_ears_bullhorn_l
+      Dependencies: {}
+    Info_61:
+      Name: c1061_banana_head
+      Dependencies: {}
+    Info_62:
+      Name: c1862_weapon_lance
+      Dependencies: {}
+    Info_63:
+      Name: c1614_vine_legs
+      Dependencies: {}
+    Info_64:
+      Name: c1235_armor_shoulder_wood_l
+      Dependencies: {}
+    Info_65:
+      Name: c1225_armor_shoulder_train_r
+      Dependencies: {}
+    Info_66:
+      Name: c1455_pony_tail
+      Dependencies: {}
+    Info_67:
+      Name: c1405_ears_deepear_l
+      Dependencies: {}
+    Info_68:
+      Name: c1467_armor_arm_dsaws_l
+      Dependencies: {}
+    Info_69:
+      Name: c1782_armor_leg_earth_l
+      Dependencies: {}
+    Info_70:
+      Name: c1922_firedancer_arms
+      Dependencies: {}
+    Info_71:
+      Name: c1731_iballs_tail
+      Dependencies: {}
+    Info_72:
+      Name: c1250_armor_arm_diamond_l
+      Dependencies: {}
+    Info_73:
+      Name: c2051_bear_head_eyes
+      Dependencies: {}
+    Info_74:
+      Name: c1205_armor_arm_pizza_l
+      Dependencies: {}
+    Info_75:
+      Name: c1010_robot_torso_a
+      Dependencies: {}
+    Info_76:
+      Name: c1099_armor_leg_woody_l
+      Dependencies: {}
+    Info_77:
+      Name: c1418_tiger_head
+      Dependencies: {}
+    Info_78:
+      Name: c1445_maleyoungc_head_eyes
+      Dependencies: {}
+    Info_79:
+      Name: c1122_armor_helmet_alien
+      Dependencies: {}
+    Info_80:
+      Name: c1096_armor_arm_furnace_l
+      Dependencies: {}
+    Info_81:
+      Name: c1691_armor_leg_sparta_l
+      Dependencies: {}
+    Info_82:
+      Name: c1289_armor_shoulder_dgwarball_l
+      Dependencies: {}
+    Info_83:
+      Name: c1808_girle_head
+      Dependencies: {}
+    Info_84:
+      Name: c1551_ears_squid_l
+      Dependencies: {}
+    Info_85:
+      Name: c1291_armor_leg_dgwarball_l
+      Dependencies: {}
+    Info_86:
+      Name: c1480_weapon_sword_wood
+      Dependencies: {}
+    Info_87:
+      Name: c1579_armor_helmet_pirate
+      Dependencies: {}
+    Info_88:
+      Name: c1841_weapon_jester
+      Dependencies: {}
+    Info_89:
+      Name: c2012_weapon_thrown_pinwheel
+      Dependencies: {}
+    Info_90:
+      Name: c1739_hat_cubano
+      Dependencies: {}
+    Info_91:
+      Name: c1831_ninja_arms
+      Dependencies: {}
+    Info_92:
+      Name: c1905_bolton_halo
+      Dependencies: {}
+    Info_93:
+      Name: c1845_fossilbones_arms
+      Dependencies: {}
+    Info_94:
+      Name: c1727_armor_helmet_iballs
+      Dependencies: {}
+    Info_95:
+      Name: c1098_armor_leg_stoned_l
+      Dependencies: {}
+    Info_96:
+      Name: c1125_armor_shoulder_artdeco_r
+      Dependencies: {}
+    Info_97:
+      Name: c1945_dragon_head_eyes
+      Dependencies: {}
+    Info_98:
+      Name: c2006_gargoyle_torso
+      Dependencies: {}
+    Info_99:
+      Name: c1400_ears_crystal_r
+      Dependencies: {}
+    Info_100:
+      Name: c1156_armor_arm_blade_r
+      Dependencies: {}
+    Info_101:
+      Name: c1035_carrot_tail
+      Dependencies: {}
+    Info_102:
+      Name: c2004_gargoyle_head_eyes
+      Dependencies: {}
+    Info_103:
+      Name: c1297_doom_head_eyes
+      Dependencies: {}
+    Info_104:
+      Name: c1788_armor_shoulder_lion_r
+      Dependencies: {}
+    Info_105:
+      Name: c1292_weapondgwarball
+      Dependencies: {}
+    Info_106:
+      Name: c1098_armor_leg_stoned_r
+      Dependencies: {}
+    Info_107:
+      Name: c1084_armor_shoulder_double_r
+      Dependencies: {}
+    Info_108:
+      Name: c1152_armor_shoulder_gb_r
+      Dependencies: {}
+    Info_109:
+      Name: c1228_armor_arm_furband_l
+      Dependencies: {}
+    Info_110:
+      Name: c1115_armor_arm_steampunk_l
+      Dependencies: {}
+    Info_111:
+      Name: c1837_ballerina_legs
+      Dependencies: {}
+    Info_112:
+      Name: c1362_ears_kaos_l
+      Dependencies: {}
+    Info_113:
+      Name: c1165_armor_shoulder_tech_r
+      Dependencies: {}
+    Info_114:
+      Name: c1894_weapon_bazooka_tuba
+      Dependencies: {}
+    Info_115:
+      Name: c1364_weapon_caveclub
+      Dependencies: {}
+    Info_116:
+      Name: c1104_armor_shoulder_tech_l
+      Dependencies: {}
+    Info_117:
+      Name: c1776_armor_helmet_drkrank
+      Dependencies: {}
+    Info_118:
+      Name: c1093_armor_arm_metalspiral_r
+      Dependencies: {}
+    Info_119:
+      Name: c1972_insect_tail
+      Dependencies: {}
+    Info_120:
+      Name: c1266_ears_dearring_l
+      Dependencies: {}
+    Info_121:
+      Name: c1926_ragdoll_head_eyes
+      Dependencies: {}
+    Info_122:
+      Name: c1728_ears_iballs_l
+      Dependencies: {}
+    Info_123:
+      Name: c2062_stalk_arms
+      Dependencies: {}
+    Info_124:
+      Name: c1584_diver_head_eyes
+      Dependencies: {}
+    Info_125:
+      Name: c1158_armor_arm_shell_l
+      Dependencies: {}
+    Info_126:
+      Name: c1221_genie_tasset
+      Dependencies: {}
+    Info_127:
+      Name: c1573_armor_leg_musketeer_r
+      Dependencies: {}
+    Info_128:
+      Name: c1851_weapon_cheesestaff
+      Dependencies: {}
+    Info_129:
+      Name: c1288_dgwarball_head_eyes
+      Dependencies: {}
+    Info_130:
+      Name: c1498_snake_naga
+      Dependencies: {}
+    Info_131:
+      Name: c1759_ears_conbot_r
+      Dependencies: {}
+    Info_132:
+      Name: c1885_ears_bear_r
+      Dependencies: {}
+    Info_133:
+      Name: c1186_hat_pan
+      Dependencies: {}
+    Info_134:
+      Name: c2068_weapon_pistol_bone
+      Dependencies: {}
+    Info_135:
+      Name: c1711_weapon_dragon_staff
+      Dependencies: {}
+    Info_136:
+      Name: c1619_wland_torso
+      Dependencies: {}
+    Info_137:
+      Name: c1968_insect_head_eyes
+      Dependencies: {}
+    Info_138:
+      Name: c1622_armor_shoulder_turtle_l
+      Dependencies: {}
+    Info_139:
+      Name: c1835_ballerina_torso
+      Dependencies: {}
+    Info_140:
+      Name: c1856_weapon_bazooka_tank
+      Dependencies: {}
+    Info_141:
+      Name: c1927_roboskull_head
+      Dependencies: {}
+    Info_142:
+      Name: c1416_ears_bat_l
+      Dependencies: {}
+    Info_143:
+      Name: c1718_weapon_snake_staff
+      Dependencies: {}
+    Info_144:
+      Name: c1127_armor_shoulder_scales_l
+      Dependencies: {}
+    Info_145:
+      Name: c1114_armor_arm_bones_r
+      Dependencies: {}
+    Info_146:
+      Name: c1407_scarecrow_arms
+      Dependencies: {}
+    Info_147:
+      Name: c1786_armor_backpack_pinata
+      Dependencies: {}
+    Info_148:
+      Name: c1510_snowman_head_eyes
+      Dependencies: {}
+    Info_149:
+      Name: c1443_weapon_chakram
+      Dependencies: {}
+    Info_150:
+      Name: c1985_armor_backpack_ladybug
+      Dependencies: {}
+    Info_151:
+      Name: c1741_hat_skipper
+      Dependencies: {}
+    Info_152:
+      Name: c1868_armor_leg_spiky_r
+      Dependencies: {}
+    Info_153:
+      Name: c1094_armor_arm_wood_r
+      Dependencies: {}
+    Info_154:
+      Name: c1735_armor_arm_equestrian_l
+      Dependencies: {}
+    Info_155:
+      Name: c1662_weapon_tritip_club
+      Dependencies: {}
+    Info_156:
+      Name: c1034_flinn_head_eyes
+      Dependencies: {}
+    Info_157:
+      Name: c1126_armor_shoulder_furnace_r
+      Dependencies: {}
+    Info_158:
+      Name: c1342_ears_busw_l
+      Dependencies: {}
+    Info_159:
+      Name: c2038_boyf_head
+      Dependencies: {}
+    Info_160:
+      Name: c1133_armor_leg_dandylion_l
+      Dependencies: {}
+    Info_161:
+      Name: c1095_armor_arm_rock_r
+      Dependencies: {}
+    Info_162:
+      Name: c1754_conbot_legs
+      Dependencies: {}
+    Info_163:
+      Name: c1615_wland_head
+      Dependencies: {}
+    Info_164:
+      Name: c1783_armor_shoulder_crystal_l
+      Dependencies: {}
+    Info_165:
+      Name: c1702_weapon_pistol_ligthning
+      Dependencies: {}
+    Info_166:
+      Name: c1417_ears_robot_r
+      Dependencies: {}
+    Info_167:
+      Name: c1334_humanm_head
+      Dependencies: {}
+    Info_168:
+      Name: c1842_stone_legs
+      Dependencies: {}
+    Info_169:
+      Name: c1365_weapon_tenderclub
+      Dependencies: {}
+    Info_170:
+      Name: c1507_earth_tasset
+      Dependencies: {}
+    Info_171:
+      Name: c1222_armor_shoulder_skull_r
+      Dependencies: {}
+    Info_172:
+      Name: c1928_fshmnstr_head_eyes
+      Dependencies: {}
+    Info_173:
+      Name: c1826_scrow_torso
+      Dependencies: {}
+    Info_174:
+      Name: c1193_armor_shoulder_tech_r
+      Dependencies: {}
+    Info_175:
+      Name: c1384_duster_torso
+      Dependencies: {}
+    Info_176:
+      Name: c1353_heavymetal_l
+      Dependencies: {}
+    Info_177:
+      Name: c1980_ladybug_head
+      Dependencies: {}
+    Info_178:
+      Name: c1755_armor_arm_conbot_r
+      Dependencies: {}
+    Info_179:
+      Name: c1124_armor_shoulder_scifi_r
+      Dependencies: {}
+    Info_180:
+      Name: c2079_flower_legs
+      Dependencies: {}
+    Info_181:
+      Name: c601_insect_legs
+      Dependencies: {}
+    Info_182:
+      Name: c1349_boltons_l
+      Dependencies: {}
+    Info_183:
+      Name: c1289_armor_shoulder_dgwarball_r
+      Dependencies: {}
+    Info_184:
+      Name: c1813_weapon_boxingglove
+      Dependencies: {}
+    Info_185:
+      Name: c1737_armor_leg_equestrian_l
+      Dependencies: {}
+    Info_186:
+      Name: c1848_weapon_firestar
+      Dependencies: {}
+    Info_187:
+      Name: c1241_magma_head
+      Dependencies: {}
+    Info_188:
+      Name: c1234_armor_shoulder_shell_r
+      Dependencies: {}
+    Info_189:
+      Name: c1118_armor_leg_stud_l
+      Dependencies: {}
+    Info_190:
+      Name: c1165_armor_shoulder_tech_l
+      Dependencies: {}
+    Info_191:
+      Name: c1631_weapon_axe
+      Dependencies: {}
+    Info_192:
+      Name: c1710_weapon_spider_staff
+      Dependencies: {}
+    Info_193:
+      Name: c1362_ears_kaos_r
+      Dependencies: {}
+    Info_194:
+      Name: c1965_armor_leg_spider_r
+      Dependencies: {}
+    Info_195:
+      Name: c1593_armor_shoulder_chompy_l
+      Dependencies: {}
+    Info_196:
+      Name: c603_bird_armor_arm_r
+      Dependencies: {}
+    Info_197:
+      Name: c2040_lucha_head
+      Dependencies: {}
+    Info_198:
+      Name: c1109_armor_leg_fur_r
+      Dependencies: {}
+    Info_199:
+      Name: c1373_froggy_arms
+      Dependencies: {}
+    Info_200:
+      Name: c1695_hat_sherlock
+      Dependencies: {}
+    Info_201:
+      Name: c1143_armor_shoulder_magic_l
+      Dependencies: {}
+    Info_202:
+      Name: c1224_armor_shoulder_melon_r
+      Dependencies: {}
+    Info_203:
+      Name: c1641_armor_arm_shell_r
+      Dependencies: {}
+    Info_204:
+      Name: c1978_cuteleaf_head_eyes
+      Dependencies: {}
+    Info_205:
+      Name: c1225_armor_shoulder_train_l
+      Dependencies: {}
+    Info_206:
+      Name: c1496_armor_helmet_rocketeer
+      Dependencies: {}
+    Info_207:
+      Name: c1482_weapon_fist_roman_l
+      Dependencies: {}
+    Info_208:
+      Name: c1548_furry_naga
+      Dependencies: {}
+    Info_209:
+      Name: c1135_armor_arm_tech_r
+      Dependencies: {}
+    Info_210:
+      Name: c1092_armor_shoulder_stone_r
+      Dependencies: {}
+    Info_211:
+      Name: c1298_weapon_bow_elfb
+      Dependencies: {}
+    Info_212:
+      Name: c1962_spider_head
+      Dependencies: {}
+    Info_213:
+      Name: c1736_armor_shoulder_equestrian_r
+      Dependencies: {}
+    Info_214:
+      Name: c1141_armor_shoulder_air_r
+      Dependencies: {}
+    Info_215:
+      Name: c1368_weapon_munclub
+      Dependencies: {}
+    Info_216:
+      Name: c1396_satchel
+      Dependencies: {}
+    Info_217:
+      Name: c1682_hat_dundee
+      Dependencies: {}
+    Info_218:
+      Name: c1404_weapon_doomsword
+      Dependencies: {}
+    Info_219:
+      Name: c2075_weapon_bazooka_plant
+      Dependencies: {}
+    Info_220:
+      Name: c1083_armor_helmet_cyclops
+      Dependencies: {}
+    Info_221:
+      Name: c1280_armor_backpack_chilly
+      Dependencies: {}
+    Info_222:
+      Name: c1257_flynn_torso
+      Dependencies: {}
+    Info_223:
+      Name: c1676_sparta_head
+      Dependencies: {}
+    Info_224:
+      Name: c1504_roman_tasset
+      Dependencies: {}
+    Info_225:
+      Name: c1403_ears_tentacles_r
+      Dependencies: {}
+    Info_226:
+      Name: c1000_foodfight_head
+      Dependencies: {}
+    Info_227:
+      Name: c1807_girld_head
+      Dependencies: {}
+    Info_228:
+      Name: c2055_bear_legs
+      Dependencies: {}
+    Info_229:
+      Name: c1893_weapon_bazooka_flower
+      Dependencies: {}
+    Info_230:
+      Name: c1925_babydgn_head_eyes
+      Dependencies: {}
+    Info_231:
+      Name: c1101_armor_leg_magma_l
+      Dependencies: {}
+    Info_232:
+      Name: c1087_armor_helmet_warjester
+      Dependencies: {}
+    Info_233:
+      Name: c1481_weapon_throw_wood
+      Dependencies: {}
+    Info_234:
+      Name: c1238_armor_shoulder_heavy_l
+      Dependencies: {}
+    Info_235:
+      Name: c1994_weapon_plunger
+      Dependencies: {}
+    Info_236:
+      Name: c1113_armor_arm_metalwood_r
+      Dependencies: {}
+    Info_237:
+      Name: c2073_weapon_throw_tourtle
+      Dependencies: {}
+    Info_238:
+      Name: c2011_weapon_thrown_tablesaw
+      Dependencies: {}
+    Info_239:
+      Name: c1514_hat_snowman
+      Dependencies: {}
+    Info_240:
+      Name: c1783_armor_shoulder_crystal_r
+      Dependencies: {}
+    Info_241:
+      Name: c1028_robotbouncer_head_eyes
+      Dependencies: {}
+    Info_242:
+      Name: c1025_fishgirl_head_eyes
+      Dependencies: {}
+    Info_243:
+      Name: c1863_armor_shoulder_dbaz_r
+      Dependencies: {}
+    Info_244:
+      Name: c1077_weapon_throwingstar
+      Dependencies: {}
+    Info_245:
+      Name: c1457_rock_head_eyes
+      Dependencies: {}
+    Info_246:
+      Name: c1052_kaboom_head_eyes
+      Dependencies: {}
+    Info_247:
+      Name: c1762_weapon_snake
+      Dependencies: {}
+    Info_248:
+      Name: c1595_banana_legs
+      Dependencies: {}
+    Info_249:
+      Name: c1618_armor_shoulder_wland_l
+      Dependencies: {}
+    Info_250:
+      Name: c603_bird_head_eyes
+      Dependencies: {}
+    Info_251:
+      Name: c1491_raptor_head
+      Dependencies: {}
+    Info_252:
+      Name: c1104_armor_shoulder_tech_r
+      Dependencies: {}
+    Info_253:
+      Name: c1078_armor_helmet_knight2
+      Dependencies: {}
+    Info_254:
+      Name: c1791_armor_helmet_tidepool
+      Dependencies: {}
+    Info_255:
+      Name: c1613_weapon_hatchet
+      Dependencies: {}
+    Info_256:
+      Name: c1206_armor_arm_canister_l
+      Dependencies: {}
+    Info_257:
+      Name: c1370_monster_head
+      Dependencies: {}
+    Info_258:
+      Name: c1023_robotgirl_head
+      Dependencies: {}
+    Info_259:
+      Name: c1102_armor_leg_bone_l
+      Dependencies: {}
+    Info_260:
+      Name: c1804_girla_head
+      Dependencies: {}
+    Info_261:
+      Name: c1905_crash_arms
+      Dependencies: {}
+    Info_262:
+      Name: c1639_ears_seahorse_l
+      Dependencies: {}
+    Info_263:
+      Name: c1073_weapon_brassknuckle
+      Dependencies: {}
+    Info_264:
+      Name: c1033_hex_head
+      Dependencies: {}
+    Info_265:
+      Name: c1553_armor_shoulder_squid_l
+      Dependencies: {}
+    Info_266:
+      Name: c1730_armor_arm_iballs_r
+      Dependencies: {}
+    Info_267:
+      Name: c1993_ears_plunger_l
+      Dependencies: {}
+    Info_268:
+      Name: c1238_armor_shoulder_heavy_r
+      Dependencies: {}
+    Info_269:
+      Name: c1802_ears_ncortex_l
+      Dependencies: {}
+    Info_270:
+      Name: c1057_weapon_wrench_club
+      Dependencies: {}
+    Info_271:
+      Name: c1736_armor_shoulder_equestrian_l
+      Dependencies: {}
+    Info_272:
+      Name: c1202_armor_shoulder_leather_l
+      Dependencies: {}
+    Info_273:
+      Name: c1691_armor_leg_sparta_r
+      Dependencies: {}
+    Info_274:
+      Name: c1627_ears_faun_r
+      Dependencies: {}
+    Info_275:
+      Name: c1405_ears_deepear_r
+      Dependencies: {}
+    Info_276:
+      Name: c1495_rocketeer_head_eyes
+      Dependencies: {}
+    Info_277:
+      Name: c1130_armor_leg_studdedleather_r
+      Dependencies: {}
+    Info_278:
+      Name: c1183_hat_general
+      Dependencies: {}
+    Info_279:
+      Name: c1376_armor_backpack_rockspikes
+      Dependencies: {}
+    Info_280:
+      Name: c1538_armor_shoulder_firedragon_l
+      Dependencies: {}
+    Info_281:
+      Name: c1875_bolton_spikemh
+      Dependencies: {}
+    Info_282:
+      Name: c1424_squid_tail
+      Dependencies: {}
+    Info_283:
+      Name: c2024_armor_helmet_commando
+      Dependencies: {}
+    Info_284:
+      Name: c1159_armor_arm_pointy_l
+      Dependencies: {}
+    Info_285:
+      Name: c1584_diver_head
+      Dependencies: {}
+    Info_286:
+      Name: c2036_orc_head_eyes
+      Dependencies: {}
+    Info_287:
+      Name: c1428_weapon_popsicle
+      Dependencies: {}
+    Info_288:
+      Name: c1152_armor_shoulder_gb_l
+      Dependencies: {}
+    Info_289:
+      Name: c1296_armor_backpack_barrels
+      Dependencies: {}
+    Info_290:
+      Name: c1805_girlb_head
+      Dependencies: {}
+    Info_291:
+      Name: c1421_elephoot_legs
+      Dependencies: {}
+    Info_292:
+      Name: c1302_weapon_bow_bones
+      Dependencies: {}
+    Info_293:
+      Name: c1106_armor_shoulder_carvedstone_r
+      Dependencies: {}
+    Info_294:
+      Name: c1295_boraz_head_eyes
+      Dependencies: {}
+    Info_295:
+      Name: c1965_armor_leg_spider_l
+      Dependencies: {}
+    Info_296:
+      Name: c1559_witch_arms
+      Dependencies: {}
+    Info_297:
+      Name: c1758_armor_shoulder_conbot_r
+      Dependencies: {}
+    Info_298:
+      Name: c1982_ladybug_torso
+      Dependencies: {}
+    Info_299:
+      Name: c1975_shoulder_pumpkin_r
+      Dependencies: {}
+    Info_300:
+      Name: c1518_armor_arm_dbaz_l
+      Dependencies: {}
+    Info_301:
+      Name: c2073_weapon_bazooka_undead
+      Dependencies: {}
+    Info_302:
+      Name: c1895_weapon_pistol_paul
+      Dependencies: {}
+    Info_303:
+      Name: c1299_weapon_bow_batwings
+      Dependencies: {}
+    Info_304:
+      Name: c1995_lampman_tail
+      Dependencies: {}
+    Info_305:
+      Name: c1629_faun_legs
+      Dependencies: {}
+    Info_306:
+      Name: c1226_armor_arm_steel_l
+      Dependencies: {}
+    Info_307:
+      Name: c1177_hat_sailor
+      Dependencies: {}
+    Info_308:
+      Name: c1266_ears_dearring_r
+      Dependencies: {}
+    Info_309:
+      Name: c1809_girlf_head
+      Dependencies: {}
+    Info_310:
+      Name: c1503_water_tasset
+      Dependencies: {}
+    Info_311:
+      Name: c1357_weapon_naginata
+      Dependencies: {}
+    Info_312:
+      Name: c2010_weapon_thrown_bow
+      Dependencies: {}
+    Info_313:
+      Name: c1042_blackdragon_tail
+      Dependencies: {}
+    Info_314:
+      Name: c1318_ears_pencil_r
+      Dependencies: {}
+    Info_315:
+      Name: c1722_weapon_double_axe
+      Dependencies: {}
+    Info_316:
+      Name: c1524_weapon_dswords
+      Dependencies: {}
+    Info_317:
+      Name: c1669_spunk_head_eyes
+      Dependencies: {}
+    Info_318:
+      Name: c1492_raptor_arms
+      Dependencies: {}
+    Info_319:
+      Name: c1406_stone_arms
+      Dependencies: {}
+    Info_320:
+      Name: c1747_weapon_wblades
+      Dependencies: {}
+    Info_321:
+      Name: c1781_armor_shoulder_star_r
+      Dependencies: {}
+    Info_322:
+      Name: c1733_bolton_equestrian
+      Dependencies: {}
+    Info_323:
+      Name: c600_mummy_head
+      Dependencies: {}
+    Info_324:
+      Name: c2003_armor_helmet_horns
+      Dependencies: {}
+    Info_325:
+      Name: c1037_lobster_tail
+      Dependencies: {}
+    Info_326:
+      Name: c1129_armor_leg_spike_l
+      Dependencies: {}
+    Info_327:
+      Name: c1201_armor_shoulder_stone_r
+      Dependencies: {}
+    Info_328:
+      Name: c1562_glad_head
+      Dependencies: {}
+    Info_329:
+      Name: c1101_armor_leg_magma_r
+      Dependencies: {}
+    Info_330:
+      Name: c1557_armor_helmet_witch
+      Dependencies: {}
+    Info_331:
+      Name: c1039_dino_tail
+      Dependencies: {}
+    Info_332:
+      Name: c1983_armor_shoulder_ladybug_r
+      Dependencies: {}
+    Info_333:
+      Name: c1967_weapon_spider
+      Dependencies: {}
+    Info_334:
+      Name: c1678_sparta_torso
+      Dependencies: {}
+    Info_335:
+      Name: c1158_armor_arm_shell_r
+      Dependencies: {}
+    Info_336:
+      Name: c1532_female_torso
+      Dependencies: {}
+    Info_337:
+      Name: c1551_ears_squid_r
+      Dependencies: {}
+    Info_338:
+      Name: c1877_ears_candy_r
+      Dependencies: {}
+    Info_339:
+      Name: c1298_weapon_maori
+      Dependencies: {}
+    Info_340:
+      Name: c1167_techgear_torso
+      Dependencies: {}
+    Info_341:
+      Name: c1367_weapon_dtriclub
+      Dependencies: {}
+    Info_342:
+      Name: c1394_chompy
+      Dependencies: {}
+    Info_343:
+      Name: c1249_armor_arm_arkeyan_r
+      Dependencies: {}
+    Info_344:
+      Name: c1128_armor_leg_platemetal_l
+      Dependencies: {}
+    Info_345:
+      Name: c1977_armr_lg_pmpkn_l
+      Dependencies: {}
+    Info_346:
+      Name: c1646_weapon_bow_kaosbow
+      Dependencies: {}
+    Info_347:
+      Name: c1109_armor_leg_fur_l
+      Dependencies: {}
+    Info_348:
+      Name: c1919_ears_feathers_r
+      Dependencies: {}
+    Info_349:
+      Name: c1370_monster_head_eyes
+      Dependencies: {}
+    Info_350:
+      Name: c1709_weapon_ice_club
+      Dependencies: {}
+    Info_351:
+      Name: c1938_weapon_fist_drill_l
+      Dependencies: {}
+    Info_352:
+      Name: c603_bird_head
+      Dependencies: {}
+    Info_353:
+      Name: c1981_ears_ladybug_l
+      Dependencies: {}
+    Info_354:
+      Name: c1043_greendragon_tail
+      Dependencies: {}
+    Info_355:
+      Name: c1237_armor_shoulder_etched_l
+      Dependencies: {}
+    Info_356:
+      Name: c1297_sword_02
+      Dependencies: {}
+    Info_357:
+      Name: c2045_flower_tail
+      Dependencies: {}
+    Info_358:
+      Name: c1751_weapon_dstar
+      Dependencies: {}
+    Info_359:
+      Name: c1306_pek_head_eyes
+      Dependencies: {}
+    Info_360:
+      Name: c1462_angel_arms
+      Dependencies: {}
+    Info_361:
+      Name: c1854_weapon_magicblade
+      Dependencies: {}
+    Info_362:
+      Name: c2057_weapon_bow_horn
+      Dependencies: {}
+    Info_363:
+      Name: c1620_armor_helmet_wland
+      Dependencies: {}
+    Info_364:
+      Name: c1590_chompy_head_eyes
+      Dependencies: {}
+    Info_365:
+      Name: c1375_armor_backpack_teddy
+      Dependencies: {}
+    Info_366:
+      Name: c1853_weapon_doublemallow
+      Dependencies: {}
+    Info_367:
+      Name: c1929_tiger_torso
+      Dependencies: {}
+    Info_368:
+      Name: c1887_chain_legs
+      Dependencies: {}
+    Info_369:
+      Name: c1414_camera_head
+      Dependencies: {}
+    Info_370:
+      Name: c1240_aviator_head
+      Dependencies: {}
+    Info_371:
+      Name: c1319_ears_corn_r
+      Dependencies: {}
+    Info_372:
+      Name: c1692_sparta_legs
+      Dependencies: {}
+    Info_373:
+      Name: c1840_jester_legs
+      Dependencies: {}
+    Info_374:
+      Name: c2069_weapon_forknspoon
+      Dependencies: {}
+    Info_375:
+      Name: c1510_snowman_head
+      Dependencies: {}
+    Info_376:
+      Name: c1571_musketeer_legs
+      Dependencies: {}
+    Info_377:
+      Name: c1585_diver_arms
+      Dependencies: {}
+    Info_378:
+      Name: c1034_flinn_head
+      Dependencies: {}
+    Info_379:
+      Name: c1223_armor_shoulder_eagle_l
+      Dependencies: {}
+    Info_380:
+      Name: c2041_boyb_head
+      Dependencies: {}
+    Info_381:
+      Name: c1608_armor_helmet_crest
+      Dependencies: {}
+    Info_382:
+      Name: c1906_weapon_orbstaff
+      Dependencies: {}
+    Info_383:
+      Name: c2007_gargoyle_tail
+      Dependencies: {}
+    Info_384:
+      Name: c1600_samurai_arms
+      Dependencies: {}
+    Info_385:
+      Name: c1308_mouse_head
+      Dependencies: {}
+    Info_386:
+      Name: c1865_bunny_tail
+      Dependencies: {}
+    Info_387:
+      Name: c1981_ears_ladybug_r
+      Dependencies: {}
+    Info_388:
+      Name: c1884_ears_cat_r
+      Dependencies: {}
+    Info_389:
+      Name: c1340_humanm2_head_eyes
+      Dependencies: {}
+    Info_390:
+      Name: c1488_vampire_cape
+      Dependencies: {}
+    Info_391:
+      Name: c1597_bolton_samurai
+      Dependencies: {}
+    Info_392:
+      Name: c1550_armor_helmet_squid
+      Dependencies: {}
+    Info_393:
+      Name: c1393_acorn
+      Dependencies: {}
+    Info_394:
+      Name: c2037_elfm_head
+      Dependencies: {}
+    Info_395:
+      Name: c1531_female_head
+      Dependencies: {}
+    Info_396:
+      Name: c1204_armor_arm_watermelon_r
+      Dependencies: {}
+    Info_397:
+      Name: c1516_snowman
+      Dependencies: {}
+    Info_398:
+      Name: c1229_armor_arm_rivet_r
+      Dependencies: {}
+    Info_399:
+      Name: c1572_hat_musketeer
+      Dependencies: {}
+    Info_400:
+      Name: c1728_ears_iballs_r
+      Dependencies: {}
+    Info_401:
+      Name: c603_bird_legs
+      Dependencies: {}
+    Info_402:
+      Name: c1094_armor_arm_wood_l
+      Dependencies: {}
+    Info_403:
+      Name: d444_bolton_goldqueen
+      Dependencies: {}
+    Info_404:
+      Name: c1772_weapon_scythe
+      Dependencies: {}
+    Info_405:
+      Name: c1749_weapon_wing
+      Dependencies: {}
+    Info_406:
+      Name: c1160_armor_arm_fur_r
+      Dependencies: {}
+    Info_407:
+      Name: c1963_armor_shoulder_spider_r
+      Dependencies: {}
+    Info_408:
+      Name: c1450_unicorn_legs
+      Dependencies: {}
+    Info_409:
+      Name: c2017_kabuki_head_eyes
+      Dependencies: {}
+    Info_410:
+      Name: c1795_armor_helmet_grass
+      Dependencies: {}
+    Info_411:
+      Name: c1640_armor_shoulder_clam_r
+      Dependencies: {}
+    Info_412:
+      Name: c1647_weapon_sword_kaossword
+      Dependencies: {}
+    Info_413:
+      Name: c2008_weapon_bow_bow
+      Dependencies: {}
+    Info_414:
+      Name: c1712_weapon_demon_staff
+      Dependencies: {}
+    Info_415:
+      Name: c1674_armor_shoulder_spunk_r
+      Dependencies: {}
+    Info_416:
+      Name: c1976_pumpkin_torso
+      Dependencies: {}
+    Info_417:
+      Name: c1386_lava_torso
+      Dependencies: {}
+    Info_418:
+      Name: c1142_armor_shoulder_water_l
+      Dependencies: {}
+    Info_419:
+      Name: c1962_spider_head_eyes
+      Dependencies: {}
+    Info_420:
+      Name: c602_girl_legs
+      Dependencies: {}
+    Info_421:
+      Name: c1536_ears_dragonhorns_r
+      Dependencies: {}
+    Info_422:
+      Name: c1219_armor_arm_seashell_r
+      Dependencies: {}
+    Info_423:
+      Name: c1999_baby_head
+      Dependencies: {}
+    Info_424:
+      Name: c1282_armor_backpack_wingblade
+      Dependencies: {}
+    Info_425:
+      Name: c1964_armor_arm_spider_l
+      Dependencies: {}
+    Info_426:
+      Name: c1196_armor_shoulder_feathers_r
+      Dependencies: {}
+    Info_427:
+      Name: c1381_ninja_torso
+      Dependencies: {}
+    Info_428:
+      Name: c1374_armor_backpack_fridge
+      Dependencies: {}
+    Info_429:
+      Name: c2061_flower_torso
+      Dependencies: {}
+    Info_430:
+      Name: c1601_samurai_legs
+      Dependencies: {}
+    Info_431:
+      Name: c1128_armor_leg_platemetal_r
+      Dependencies: {}
+    Info_432:
+      Name: c1033_hex_head_eyes
+      Dependencies: {}
+    Info_433:
+      Name: c1117_armor_leg_kryptking_l
+      Dependencies: {}
+    Info_434:
+      Name: c1274_snake_arms
+      Dependencies: {}
+    Info_435:
+      Name: c1941_weapon_fist_gear_l
+      Dependencies: {}
+    Info_436:
+      Name: c1168_techgearb_torso
+      Dependencies: {}
+    Info_437:
+      Name: c2065_weapon_scales
+      Dependencies: {}
+    Info_438:
+      Name: c1233_armor_shoulder_eye_r
+      Dependencies: {}
+    Info_439:
+      Name: c1219_armor_arm_seashell_l
+      Dependencies: {}
+    Info_440:
+      Name: c1657_armorf_torso
+      Dependencies: {}
+    Info_441:
+      Name: c1124_armor_shoulder_scifi_l
+      Dependencies: {}
+    Info_442:
+      Name: c1828_armor_arm_scrow_l
+      Dependencies: {}
+    Info_443:
+      Name: c1466_weapon_saws
+      Dependencies: {}
+    Info_444:
+      Name: c2017_kabuki_head
+      Dependencies: {}
+    Info_445:
+      Name: c1939_weapon_fist_crystal_l
+      Dependencies: {}
+    Info_446:
+      Name: c1696_hat_bat
+      Dependencies: {}
+    Info_447:
+      Name: c1270_dribs_torso
+      Dependencies: {}
+    Info_448:
+      Name: c1655_wolf_legs
+      Dependencies: {}
+    Info_449:
+      Name: c1523_dswordsback
+      Dependencies: {}
+    Info_450:
+      Name: c1552_squid_head_eyes
+      Dependencies: {}
+    Info_451:
+      Name: c1459_bones
+      Dependencies: {}
+    Info_452:
+      Name: c1623_armor_arm_turtle_l
+      Dependencies: {}
+    Info_453:
+      Name: c1564_glad_arms
+      Dependencies: {}
+    Info_454:
+      Name: c1667_weapon_samurai
+      Dependencies: {}
+    Info_455:
+      Name: c1948_monking_head_eyes
+      Dependencies: {}
+    Info_456:
+      Name: c1230_armor_arm_glass_l
+      Dependencies: {}
+    Info_457:
+      Name: c1513_snowman_legs
+      Dependencies: {}
+    Info_458:
+      Name: c1110_armor_leg_hightops_r
+      Dependencies: {}
+    Info_459:
+      Name: c1000_robot_arms
+      Dependencies: {}
+    Info_460:
+      Name: c1689_hat_icecream
+      Dependencies: {}
+    Info_461:
+      Name: c1800_weapon_lollipop
+      Dependencies: {}
+    Info_462:
+      Name: c1127_armor_shoulder_scales_r
+      Dependencies: {}
+    Info_463:
+      Name: c1121_armor_helmet_lava
+      Dependencies: {}
+    Info_464:
+      Name: c1829_weapon_ninja
+      Dependencies: {}
+    Info_465:
+      Name: c1090_armor_shoulder_wood_l
+      Dependencies: {}
+    Info_466:
+      Name: c1505_air_tasset
+      Dependencies: {}
+    Info_467:
+      Name: c1293_tiki_head_eyes
+      Dependencies: {}
+    Info_468:
+      Name: c1934_mammalcute_head_eyes
+      Dependencies: {}
+    Info_469:
+      Name: c1569_musketeer_torso
+      Dependencies: {}
+    Info_470:
+      Name: c1834_ears_ballerina_r
+      Dependencies: {}
+    Info_471:
+      Name: c601_insect_torso
+      Dependencies: {}
+    Info_472:
+      Name: c1107_armor_arm_temple_l
+      Dependencies: {}
+    Info_473:
+      Name: c1180_hat_toysoldier
+      Dependencies: {}
+    Info_474:
+      Name: c1231_armor_shoulder_octo_l
+      Dependencies: {}
+    Info_475:
+      Name: c1916_weapon_sub
+      Dependencies: {}
+    Info_476:
+      Name: c1787_lion_torso
+      Dependencies: {}
+    Info_477:
+      Name: c1748_weapon_squid
+      Dependencies: {}
+    Info_478:
+      Name: c1332_dbrain_legs
+      Dependencies: {}
+    Info_479:
+      Name: c1461_bonedrill
+      Dependencies: {}
+    Info_480:
+      Name: c1993_ears_plunger_r
+      Dependencies: {}
+    Info_481:
+      Name: c1342_ears_busw_r
+      Dependencies: {}
+    Info_482:
+      Name: c1973_hat_stem
+      Dependencies: {}
+    Info_483:
+      Name: c1722_armor_helmet_king
+      Dependencies: {}
+    Info_484:
+      Name: c1460_batwings
+      Dependencies: {}
+    Info_485:
+      Name: c2005_ears_gargoyle_r
+      Dependencies: {}
+    Info_486:
+      Name: c2020_skullsharp_head
+      Dependencies: {}
+    Info_487:
+      Name: c1366_weapon_turclub
+      Dependencies: {}
+    Info_488:
+      Name: c1325_boxing_legs
+      Dependencies: {}
+    Info_489:
+      Name: c1757_armor_helmet_conbot
+      Dependencies: {}
+    Info_490:
+      Name: c1969_insect_torso
+      Dependencies: {}
+    Info_491:
+      Name: c1759_ears_conbot_l
+      Dependencies: {}
+    Info_492:
+      Name: c1343_ears_busw2_l
+      Dependencies: {}
+    Info_493:
+      Name: c1879_armor_arm_candy_r
+      Dependencies: {}
+    Info_494:
+      Name: c1184_hat_kufi
+      Dependencies: {}
+    Info_495:
+      Name: c1331_armor_arm_dbrain_r
+      Dependencies: {}
+    Info_496:
+      Name: c1399_bare_torso
+      Dependencies: {}
+    Info_497:
+      Name: c1750_weapon_leaf
+      Dependencies: {}
+    Info_498:
+      Name: c1389_weapon_bazookafancy
+      Dependencies: {}
+    Info_499:
+      Name: c1226_armor_arm_steel_r
+      Dependencies: {}
+    Info_500:
+      Name: c1758_armor_shoulder_conbot_l
+      Dependencies: {}
+    Info_501:
+      Name: c1144_armor_shoulder_undead_l
+      Dependencies: {}
+    Info_502:
+      Name: c1224_armor_shoulder_melon_l
+      Dependencies: {}
+    Info_503:
+      Name: c1478_weapon_pin_club
+      Dependencies: {}
+    Info_504:
+      Name: c2030_ears_cyborg_r
+      Dependencies: {}
+    Info_505:
+      Name: c1621_armor_helmet_turtle
+      Dependencies: {}
+    Info_506:
+      Name: c1974_pumpkin_head_eyes
+      Dependencies: {}
+    Info_507:
+      Name: c1502_merc_tasset
+      Dependencies: {}
+    Info_508:
+      Name: c1200_armor_shoulder_croc_l
+      Dependencies: {}
+    Info_509:
+      Name: c1884_ears_cat_l
+      Dependencies: {}
+    Info_510:
+      Name: c1639_ears_seahorse_r
+      Dependencies: {}
+    Info_511:
+      Name: c603_bird_tail
+      Dependencies: {}
+    Info_512:
+      Name: c1986_lampman_torso
+      Dependencies: {}
+    Info_513:
+      Name: c1022_eye_head
+      Dependencies: {}
+    Info_514:
+      Name: c603_bird_armor_leg_l
+      Dependencies: {}
+    Info_515:
+      Name: c2025_armor_backpack_commando
+      Dependencies: {}
+    Info_516:
+      Name: c1828_armor_arm_scrow_r
+      Dependencies: {}
+    Info_517:
+      Name: c1304_cyclops_head_eyes
+      Dependencies: {}
+    Info_518:
+      Name: c1383_turtle_torso
+      Dependencies: {}
+    Info_519:
+      Name: c1810_girlg_head
+      Dependencies: {}
+    Info_520:
+      Name: c1363_weapon_thisoldclub
+      Dependencies: {}
+    Info_521:
+      Name: c603_bird_armor_torso_b
+      Dependencies: {}
+    Info_522:
+      Name: c1110_armor_leg_hightops_l
+      Dependencies: {}
+    Info_523:
+      Name: c1467_armor_arm_dsaws_r
+      Dependencies: {}
+    Info_524:
+      Name: c1858_ears_antenna_l
+      Dependencies: {}
+    Info_525:
+      Name: c1082_armor_helmet_tesla
+      Dependencies: {}
+    Info_526:
+      Name: c1575_pirate_head
+      Dependencies: {}
+    Info_527:
+      Name: c1575_pirate_head_eyes
+      Dependencies: {}
+    Info_528:
+      Name: c1021_cat_head_eyes
+      Dependencies: {}
+    Info_529:
+      Name: c1227_armor_arm_tritip_r
+      Dependencies: {}
+    Info_530:
+      Name: c1157_armor_arm_axe_l
+      Dependencies: {}
+    Info_531:
+      Name: c1199_armor_shoulder_life_r
+      Dependencies: {}
+    Info_532:
+      Name: c1932_tiger_tail
+      Dependencies: {}
+    Info_533:
+      Name: c1397_turtle_head_eyes
+      Dependencies: {}
+    Info_534:
+      Name: c2068_weapon_thrown_pizza
+      Dependencies: {}
+    Info_535:
+      Name: c2072_weapon_throw_chain
+      Dependencies: {}
+    Info_536:
+      Name: c1598_samurai_torso
+      Dependencies: {}
+    Info_537:
+      Name: c1348_blingbling_l
+      Dependencies: {}
+    Info_538:
+      Name: c1031_hood_head_eyes
+      Dependencies: {}
+    Info_539:
+      Name: c1142_armor_shoulder_water_r
+      Dependencies: {}
+    Info_540:
+      Name: c1576_pirate_torso
+      Dependencies: {}
+    Info_541:
+      Name: c1698_hat_rain
+      Dependencies: {}
+    Info_542:
+      Name: c1173_hat_bearskin
+      Dependencies: {}
+    Info_543:
+      Name: c1832_ninja_legs
+      Dependencies: {}
+    Info_544:
+      Name: c1679_stonefist_l
+      Dependencies: {}
+    Info_545:
+      Name: c1489_weapon_flower
+      Dependencies: {}
+    Info_546:
+      Name: c1418_tiger_head_eyes
+      Dependencies: {}
+    Info_547:
+      Name: c1176_hat_top
+      Dependencies: {}
+    Info_548:
+      Name: c2049_weapon_bazooka_chompy
+      Dependencies: {}
+    Info_549:
+      Name: c1830_ninja_head_eyes
+      Dependencies: {}
+    Info_550:
+      Name: c1233_armor_shoulder_eye_l
+      Dependencies: {}
+    Info_551:
+      Name: c1714_weapon_space_staff
+      Dependencies: {}
+    Info_552:
+      Name: c2064_weapon_snake
+      Dependencies: {}
+    Info_553:
+      Name: c601_insect_armor_shoulder_r
+      Dependencies: {}
+    Info_554:
+      Name: c1925_babydgn_head
+      Dependencies: {}
+    Info_555:
+      Name: c1539_armor_leg_firedragon_l
+      Dependencies: {}
+    Info_556:
+      Name: c2040_lucha_head_eyes
+      Dependencies: {}
+    Info_557:
+      Name: c1293_tiki_head
+      Dependencies: {}
+    Info_558:
+      Name: c1868_armor_leg_spiky_l
+      Dependencies: {}
+    Info_559:
+      Name: c1777_weapon_samurai
+      Dependencies: {}
+    Info_560:
+      Name: c603_bird_armor_shoulder_r
+      Dependencies: {}
+    Info_561:
+      Name: c1635_armor_leg_fireman_l
+      Dependencies: {}
+    Info_562:
+      Name: c1774_armor_helemt_badjuju
+      Dependencies: {}
+    Info_563:
+      Name: c1535_armor_helemt_firedragon
+      Dependencies: {}
+    Info_564:
+      Name: c1031_hood_head
+      Dependencies: {}
+    Info_565:
+      Name: c1275_armor_backpack_bookpack
+      Dependencies: {}
+    Info_566:
+      Name: c1327_disco_legs
+      Dependencies: {}
+    Info_567:
+      Name: c1029_chopchop_head
+      Dependencies: {}
+    Info_568:
+      Name: c1129_armor_leg_spike_r
+      Dependencies: {}
+    Info_569:
+      Name: c1296_sword_01
+      Dependencies: {}
+    Info_570:
+      Name: c1578_pirate_legs
+      Dependencies: {}
+    Info_571:
+      Name: c1310_zorro_head_eyes
+      Dependencies: {}
+    Info_572:
+      Name: c1195_armor_shoulder_crystal_l
+      Dependencies: {}
+    Info_573:
+      Name: c1805_girlb_head_eyes
+      Dependencies: {}
+    Info_574:
+      Name: c1624_armor_leg_turtle_r
+      Dependencies: {}
+    Info_575:
+      Name: c1852_weapon_doubler_crab
+      Dependencies: {}
+    Info_576:
+      Name: c1539_armor_leg_firedragon_r
+      Dependencies: {}
+    Info_577:
+      Name: c2019_monster_head
+      Dependencies: {}
+    Info_578:
+      Name: c1228_armor_arm_furband_r
+      Dependencies: {}
+    Info_579:
+      Name: c1867_armor_leg_knight_r
+      Dependencies: {}
+    Info_580:
+      Name: c1469_ears_dbarbarian_l
+      Dependencies: {}
+    Info_581:
+      Name: c1675_armor_leg_spunk_l
+      Dependencies: {}
+    Info_582:
+      Name: c1452_skeleton_torso_b
+      Dependencies: {}
+    Info_583:
+      Name: c1181_hat_elf
+      Dependencies: {}
+    Info_584:
+      Name: c1946_troll_head
+      Dependencies: {}
+    Info_585:
+      Name: c1454_femdoe_head
+      Dependencies: {}
+    Info_586:
+      Name: c1004_scaledress_arms
+      Dependencies: {}
+    Info_587:
+      Name: c1593_armor_shoulder_chompy_r
+      Dependencies: {}
+    Info_588:
+      Name: c1038_spyro_tail
+      Dependencies: {}
+    Info_589:
+      Name: c1345_ears_para_r
+      Dependencies: {}
+    Info_590:
+      Name: c1819_weapon_handstaff
+      Dependencies: {}
+    Info_591:
+      Name: c1241_magma_head_eyes
+      Dependencies: {}
+    Info_592:
+      Name: c1354_skullfist_l
+      Dependencies: {}
+    Info_593:
+      Name: c1775_weapon_drkrank
+      Dependencies: {}
+    Info_594:
+      Name: c1360_weapon_turkeystaff
+      Dependencies: {}
+    Info_595:
+      Name: c2066_weapon_khopesh
+      Dependencies: {}
+    Info_596:
+      Name: c601_insect_head_eyes
+      Dependencies: {}
+    Info_597:
+      Name: c1192_armor_shoulder_metal_l
+      Dependencies: {}
+    Info_598:
+      Name: c1330_armor_shoulder_dbrain_r
+      Dependencies: {}
+    Info_599:
+      Name: c1778_armor_backpack_ninja
+      Dependencies: {}
+    Info_600:
+      Name: c1991_bpack_toilt_papr
+      Dependencies: {}
+    Info_601:
+      Name: c1307_vorm_head
+      Dependencies: {}
+    Info_602:
+      Name: c1306_pek_head
+      Dependencies: {}
+    Info_603:
+      Name: c1069_weapon_greeblecannon
+      Dependencies: {}
+    Info_604:
+      Name: c1279_wilikin_arms
+      Dependencies: {}
+    Info_605:
+      Name: c1107_armor_arm_temple_r
+      Dependencies: {}
+    Info_606:
+      Name: c1797_armor_backpack_dflywings
+      Dependencies: {}
+    Info_607:
+      Name: c1511_snowman_torso
+      Dependencies: {}
+    Info_608:
+      Name: c1108_armor_leg_webs_r
+      Dependencies: {}
+    Info_609:
+      Name: c1439_bolton_tikka
+      Dependencies: {}
+    Info_610:
+      Name: c1700_hat_pirate
+      Dependencies: {}
+    Info_611:
+      Name: c1808_girle_head_eyes
+      Dependencies: {}
+    Info_612:
+      Name: c1599_armor_shoulder_samurai_r
+      Dependencies: {}
+    Info_613:
+      Name: c1820_tree_hammer
+      Dependencies: {}
+    Info_614:
+      Name: c1527_weapon_bow_darcher
+      Dependencies: {}
+    Info_615:
+      Name: c1742_weapon_gold
+      Dependencies: {}
+    Info_616:
+      Name: c1609_armor_helemet_firebird
+      Dependencies: {}
+    Info_617:
+      Name: c1339_weapon_eaglestaff
+      Dependencies: {}
+    Info_618:
+      Name: c1825_ears_scrow_l
+      Dependencies: {}
+    Info_619:
+      Name: c2022_commando_torso
+      Dependencies: {}
+    Info_620:
+      Name: c1119_armor_leg_tooledout_l
+      Dependencies: {}
+    Info_621:
+      Name: c1182_hat_firefighter
+      Dependencies: {}
+    Info_622:
+      Name: c1547_dragon_naga
+      Dependencies: {}
+    Info_623:
+      Name: c1860_sinister_cape
+      Dependencies: {}
+    Info_624:
+      Name: c1391_clockworkkey
+      Dependencies: {}
+    Info_625:
+      Name: c1818_spikeball_doubler
+      Dependencies: {}
+    Info_626:
+      Name: c2031_cyborg_torso
+      Dependencies: {}
+    Info_627:
+      Name: c1235_armor_shoulder_wood_r
+      Dependencies: {}
+    Info_628:
+      Name: d448_bolton_horn
+      Dependencies: {}
+    Info_629:
+      Name: c1254_spyro_head_eyes
+      Dependencies: {}
+    Info_630:
+      Name: c1989_lampman_head
+      Dependencies: {}
+    Info_631:
+      Name: c1236_armor_shoulder_spike_l
+      Dependencies: {}
+    Info_632:
+      Name: c1793_armor_arm_bshot_l
+      Dependencies: {}
+    Info_633:
+      Name: c1199_armor_shoulder_life_l
+      Dependencies: {}
+    Info_634:
+      Name: c1977_armr_lg_pmpkn_r
+      Dependencies: {}
+    Info_635:
+      Name: c1185_hat_helm
+      Dependencies: {}
+    Info_636:
+      Name: c1703_weapon_pistol_laser
+      Dependencies: {}
+    Info_637:
+      Name: c1862_armor_arm_doombow_r
+      Dependencies: {}
+    Info_638:
+      Name: c1248_armor_arm_skull_l
+      Dependencies: {}
+    Info_639:
+      Name: c1888_weapon_techblade
+      Dependencies: {}
+    Info_640:
+      Name: c2080_weapon_flower_l
+      Dependencies: {}
+    Info_641:
+      Name: c1160_armor_arm_fur_l
+      Dependencies: {}
+    Info_642:
+      Name: c1529_bolton_bun
+      Dependencies: {}
+    Info_643:
+      Name: c1291_armor_leg_dgwarball_r
+      Dependencies: {}
+    Info_644:
+      Name: c1265_dskullhelmet_head_eyes
+      Dependencies: {}
+    Info_645:
+      Name: c1090_armor_shoulder_wood_r
+      Dependencies: {}
+    Info_646:
+      Name: c1388_weapon_bazookastone
+      Dependencies: {}
+    Info_647:
+      Name: c1515_ears_earmuffs_r
+      Dependencies: {}
+    Info_648:
+      Name: c1021_cat_head
+      Dependencies: {}
+    Info_649:
+      Name: c1059_weaponhotdog
+      Dependencies: {}
+    Info_650:
+      Name: c1135_armor_arm_tech_l
+      Dependencies: {}
+    Info_651:
+      Name: c1120_armor_helmet_triceratops
+      Dependencies: {}
+    Info_652:
+      Name: c1713_weapon_life_staff
+      Dependencies: {}
+    Info_653:
+      Name: c1903_armor_backpack_wingsgold
+      Dependencies: {}
+    Info_654:
+      Name: c1415_ears_jackal_l
+      Dependencies: {}
+    Info_655:
+      Name: c1847_fossilbones_legs
+      Dependencies: {}
+    Info_656:
+      Name: c1251_armor_arm_eye_l
+      Dependencies: {}
+    Info_657:
+      Name: c1145_ears_elf_l
+      Dependencies: {}
+    Info_658:
+      Name: c1654_wolf_arms
+      Dependencies: {}
+    Info_659:
+      Name: c1931_tiger_legs
+      Dependencies: {}
+    Info_660:
+      Name: c1599_armor_shoulder_samurai_l
+      Dependencies: {}
+    Info_661:
+      Name: c1967_armor_helmet_insect
+      Dependencies: {}
+    Info_662:
+      Name: c1626_faun_head
+      Dependencies: {}
+    Info_663:
+      Name: c1114_armor_arm_bones_l
+      Dependencies: {}
+    Info_664:
+      Name: c1486_vampire_torso
+      Dependencies: {}
+    Info_665:
+      Name: c1331_armor_arm_dbrain_l
+      Dependencies: {}
+    Info_666:
+      Name: c2041_boyb_head_eyes
+      Dependencies: {}
+    Info_667:
+      Name: c1032_monkey_head
+      Dependencies: {}
+    Info_668:
+      Name: c1207_armor_arm_techeye_r
+      Dependencies: {}
+    Info_669:
+      Name: c1686_armor_helmet_morion
+      Dependencies: {}
+    Info_670:
+      Name: c1627_ears_faun_l
+      Dependencies: {}
+    Info_671:
+      Name: c1254_spyro_head
+      Dependencies: {}
+    Info_672:
+      Name: c1440_weapon_sunstar
+      Dependencies: {}
+    Info_673:
+      Name: c1137_armor_arm_ornament_l
+      Dependencies: {}
+    Info_674:
+      Name: c1844_armor_backpack_fossilbones
+      Dependencies: {}
+    Info_675:
+      Name: c1144_armor_shoulder_undead_r
+      Dependencies: {}
+    Info_676:
+      Name: c600_mummy_arms
+      Dependencies: {}
+    Info_677:
+      Name: c1851_weapon_doublepineapple
+      Dependencies: {}
+    Info_678:
+      Name: c1589_cowboy_legs
+      Dependencies: {}
+    Info_679:
+      Name: c1115_armor_arm_steampunk_r
+      Dependencies: {}
+    Info_680:
+      Name: c1997_bolton_baby
+      Dependencies: {}
+    Info_681:
+      Name: c1824_armor_helmet_scrow
+      Dependencies: {}
+    Info_682:
+      Name: c1079_armor_helmet_metalwing
+      Dependencies: {}
+    Info_683:
+      Name: c2014_weapon_bazooka_air
+      Dependencies: {}
+    Info_684:
+      Name: c1371_godrilla_head_eyes
+      Dependencies: {}
+    Info_685:
+      Name: c1195_armor_shoulder_crystal_r
+      Dependencies: {}
+    Info_686:
+      Name: c1668_armor_helmet_ponytail
+      Dependencies: {}
+    Info_687:
+      Name: c1255_ears_spyro_r
+      Dependencies: {}
+    Info_688:
+      Name: c600_mummy_armor_shoulder_r
+      Dependencies: {}
+    Info_689:
+      Name: c1118_armor_leg_stud_r
+      Dependencies: {}
+    Info_690:
+      Name: c1044_feather_tail
+      Dependencies: {}
+    Info_691:
+      Name: c2005_ears_gargoyle_l
+      Dependencies: {}
+    Info_692:
+      Name: c2037_elfm_head_eyes
+      Dependencies: {}
+    Info_693:
+      Name: c601_insect_head
+      Dependencies: {}
+    Info_694:
+      Name: c1996_chain_tail
+      Dependencies: {}
+    Info_695:
+      Name: c1862_armor_arm_doombow_l
+      Dependencies: {}
+    Info_696:
+      Name: c1012_skeleton_torso_a
+      Dependencies: {}
+    Info_697:
+      Name: c1677_bladefist_l
+      Dependencies: {}
+    Info_698:
+      Name: c1665_weapon_bazooka_fox
+      Dependencies: {}
+    Info_699:
+      Name: c1666_armor_helmet_queen
+      Dependencies: {}
+    Info_700:
+      Name: c2047_weapon_bow_ice
+      Dependencies: {}
+    Info_701:
+      Name: c1278_balloons_arms
+      Dependencies: {}
+    Info_702:
+      Name: c1256_armor_helmet_spyro
+      Dependencies: {}
+    Info_703:
+      Name: c2058_weapon_pistol_ligth
+      Dependencies: {}
+    Info_704:
+      Name: c1765_hat_princess
+      Dependencies: {}
+    Info_705:
+      Name: c1361_ears_bat_r
+      Dependencies: {}
+    Info_706:
+      Name: c1133_armor_leg_dandylion_r
+      Dependencies: {}
+    Info_707:
+      Name: c1735_armor_arm_equestrian_r
+      Dependencies: {}
+    Info_708:
+      Name: c1789_armor_helmet_lion
+      Dependencies: {}
+    Info_709:
+      Name: c1025_fishgirl_head
+      Dependencies: {}
+    Info_710:
+      Name: c1032_monkey_head_eyes
+      Dependencies: {}
+    Info_711:
+      Name: c1745_weapon_double_dbell
+      Dependencies: {}
+    Info_712:
+      Name: c1401_ears_decowing_l
+      Dependencies: {}
+    Info_713:
+      Name: c1080_armor_shoulder_leather_l
+      Dependencies: {}
+    Info_714:
+      Name: c1117_armor_leg_kryptking_r
+      Dependencies: {}
+    Info_715:
+      Name: c1026_blindelf_head_eyes
+      Dependencies: {}
+    Info_716:
+      Name: c1154_gb_legs
+      Dependencies: {}
+    Info_717:
+      Name: c1284_tentacle_arms
+      Dependencies: {}
+    Info_718:
+      Name: c1068_weapon_sheepstaff
+      Dependencies: {}
+    Info_719:
+      Name: c1843_fossilbones_head_eyes
+      Dependencies: {}
+    Info_720:
+      Name: c1172_hat_beanie
+      Dependencies: {}
+    Info_721:
+      Name: c1525_armor_leg_darcher_r
+      Dependencies: {}
+    Info_722:
+      Name: c1591_ears_chompy_l
+      Dependencies: {}
+    Info_723:
+      Name: c1623_armor_arm_turtle_r
+      Dependencies: {}
+    Info_724:
+      Name: c1326_barbarian_legs
+      Dependencies: {}
+    Info_725:
+      Name: c1790_armor_helmet_blastertron
+      Dependencies: {}
+    Info_726:
+      Name: c1040_robot_tail
+      Dependencies: {}
+    Info_727:
+      Name: c1664_weapon_bow_robot
+      Dependencies: {}
+    Info_728:
+      Name: c1864_armor_shoulder_dbarbarian_r
+      Dependencies: {}
+    Info_729:
+      Name: c1675_armor_leg_spunk_r
+      Dependencies: {}
+    Info_730:
+      Name: c1980_ladybug_head_eyes
+      Dependencies: {}
+    Info_731:
+      Name: c1153_gb_arms
+      Dependencies: {}
+    Info_732:
+      Name: c1652_wolf_head
+      Dependencies: {}
+    Info_733:
+      Name: c1300_sword_05
+      Dependencies: {}
+    Info_734:
+      Name: c1138_armor_arm_spikes_r
+      Dependencies: {}
+    Info_735:
+      Name: c1061_banana_head_eyes
+      Dependencies: {}
+    Info_736:
+      Name: c1441_weapon_worm
+      Dependencies: {}
+    Info_737:
+      Name: c1076_armor_helmet_knight1
+      Dependencies: {}
+    Info_738:
+      Name: c1190_hat_danglingcarrot
+      Dependencies: {}
+    Info_739:
+      Name: c1992_cleaning_arms
+      Dependencies: {}
+    Info_740:
+      Name: c1126_armor_shoulder_furnace_l
+      Dependencies: {}
+    Info_741:
+      Name: c1321_ears_ram_r
+      Dependencies: {}
+    Info_742:
+      Name: c1252_armor_arm_dragon_l
+      Dependencies: {}
+    Info_743:
+      Name: c1106_armor_shoulder_carvedstone_l
+      Dependencies: {}
+    Info_744:
+      Name: c1400_ears_crystal_l
+      Dependencies: {}
+    Info_745:
+      Name: c1792_armor_arm_wildstorm_l
+      Dependencies: {}
+    Info_746:
+      Name: c1558_witch_torso
+      Dependencies: {}
+    Info_747:
+      Name: c1302_sword_07
+      Dependencies: {}
+    Info_748:
+      Name: c1726_king_legs
+      Dependencies: {}
+    Info_749:
+      Name: c1690_hat_oracle
+      Dependencies: {}
+    Info_750:
+      Name: c1674_armor_shoulder_spunk_l
+      Dependencies: {}
+    Info_751:
+      Name: c1869_skunk_tail
+      Dependencies: {}
+    Info_752:
+      Name: c1825_ears_scrow_r
+      Dependencies: {}
+    Info_753:
+      Name: c1052_kaboom_head
+      Dependencies: {}
+    Info_754:
+      Name: c1723_armor_shoulder_king_r
+      Dependencies: {}
+    Info_755:
+      Name: c1119_armor_leg_tooledout_r
+      Dependencies: {}
+    Info_756:
+      Name: c1577_pirate_arms
+      Dependencies: {}
+    Info_757:
+      Name: c1138_armor_arm_spikes_l
+      Dependencies: {}
+    Info_758:
+      Name: c1272_bellows_arms
+      Dependencies: {}
+    Info_759:
+      Name: c1738_equestrian_torso
+      Dependencies: {}
+    Info_760:
+      Name: c1479_weapon_old_gun
+      Dependencies: {}
+    Info_761:
+      Name: c1227_armor_arm_tritip_l
+      Dependencies: {}
+    Info_762:
+      Name: c1155_armor_backpack_gb
+      Dependencies: {}
+    Info_763:
+      Name: c1023_robotgirl_head_eyes
+      Dependencies: {}
+    Info_764:
+      Name: c1187_hat_viking
+      Dependencies: {}
+    Info_765:
+      Name: c1708_weapon_lava_club
+      Dependencies: {}
+    Info_766:
+      Name: c1451_unicorn_tail
+      Dependencies: {}
+    Info_767:
+      Name: c1591_ears_chompy_r
+      Dependencies: {}
+    Info_768:
+      Name: d409_armor_backpack
+      Dependencies: {}
+    Info_769:
+      Name: c2071_weapon_candy_l
+      Dependencies: {}
+    Info_770:
+      Name: c1855_weapon_trlight
+      Dependencies: {}
+    Info_771:
+      Name: c1767_princess_arms
+      Dependencies: {}
+    Info_772:
+      Name: c1798_skirt_tasset
+      Dependencies: {}
+    Info_773:
+      Name: c1988_lampman_legs
+      Dependencies: {}
+    Info_774:
+      Name: c1066_weapon_hookedclub
+      Dependencies: {}
+    Info_775:
+      Name: c1338_weapons_starstaff
+      Dependencies: {}
+    Info_776:
+      Name: c1864_armor_shoulder_dbarbarian_l
+      Dependencies: {}
+    Info_777:
+      Name: c1658_queen_torso
+      Dependencies: {}
+    Info_778:
+      Name: c1328_humanf_head
+      Dependencies: {}
+    Info_779:
+      Name: c1546_tentacle_naga
+      Dependencies: {}
+    Info_780:
+      Name: c1602_armor_backpack_samurai
+      Dependencies: {}
+    Info_781:
+      Name: c1417_ears_robot_l
+      Dependencies: {}
+    Info_782:
+      Name: c1732_armor_leg_iballs_l
+      Dependencies: {}
+    Info_783:
+      Name: c1920_firedancer_head
+      Dependencies: {}
+    Info_784:
+      Name: c1463_angel_torso
+      Dependencies: {}
+    Info_785:
+      Name: c2044_weapon_burrbearian
+      Dependencies: {}
+    Info_786:
+      Name: c1053_oni_head
+      Dependencies: {}
+    Info_787:
+      Name: c1652_wolf_head_eyes
+      Dependencies: {}
+    Info_788:
+      Name: c1053_oni_head_eyes
+      Dependencies: {}
+    Info_789:
+      Name: c1592_armor_helmet_chompy
+      Dependencies: {}
+    Info_790:
+      Name: c1174_hat_beret
+      Dependencies: {}
+    Info_791:
+      Name: c1330_armor_shoulder_dbrain_l
+      Dependencies: {}
+    Info_792:
+      Name: c1680_hat_brain
+      Dependencies: {}
+    Info_793:
+      Name: c1422_weapon_blade_samurai
+      Dependencies: {}
+    Info_794:
+      Name: c1427_dogbear_head
+      Dependencies: {}
+    Info_795:
+      Name: c2078_flower_head_eyes
+      Dependencies: {}
+    Info_796:
+      Name: c1402_ears_shell_r
+      Dependencies: {}
+    Info_797:
+      Name: c1606_wknigth_head
+      Dependencies: {}
+    Info_798:
+      Name: c1573_armor_leg_musketeer_l
+      Dependencies: {}
+    Info_799:
+      Name: c1499_pizza_tasset
+      Dependencies: {}
+    Info_800:
+      Name: c1661_weapon_queen
+      Dependencies: {}
+    Info_801:
+      Name: c1459_armor_backpack_wings1
+      Dependencies: {}
+    Info_802:
+      Name: c1685_hat_alarm
+      Dependencies: {}
+    Info_803:
+      Name: c1792_armor_arm_wildstorm_r
+      Dependencies: {}
+    Info_804:
+      Name: c1839_jester_torso
+      Dependencies: {}
+    Info_805:
+      Name: c1464_sword_angel
+      Dependencies: {}
+    Info_806:
+      Name: c1285_tux_arms
+      Dependencies: {}
+    Info_807:
+      Name: c1889_weapon_doubler_wings
+      Dependencies: {}
+    Info_808:
+      Name: c1896_femalebare_arms
+      Dependencies: {}
+    Info_809:
+      Name: c1474_armor_shoulder_dninja_r
+      Dependencies: {}
+    Info_810:
+      Name: c1568_raptor_naga
+      Dependencies: {}
+    Info_811:
+      Name: c1065_weapon_sword
+      Dependencies: {}
+    Info_812:
+      Name: c2000_baby_torso
+      Dependencies: {}
+    Info_813:
+      Name: c1301_weapon_bow_flighty
+      Dependencies: {}
+    Info_814:
+      Name: c1454_femdoe_head_eyes
+      Dependencies: {}
+    Info_815:
+      Name: c1315_ears_cow_l
+      Dependencies: {}
+    Info_816:
+      Name: c1990_hat_toilet
+      Dependencies: {}
+    Info_817:
+      Name: c600_mummy_legs
+      Dependencies: {}
+    Info_818:
+      Name: c1426_lion_tail
+      Dependencies: {}
+    Info_819:
+      Name: c1070_weapon_buzzgun
+      Dependencies: {}
+    Info_820:
+      Name: c1063_hat_wwi
+      Dependencies: {}
+    Info_821:
+      Name: c1164_armor_shoulder_leaf_r
+      Dependencies: {}
+    Info_822:
+      Name: c1248_armor_arm_skull_r
+      Dependencies: {}
+    Info_823:
+      Name: c1013_robotgirl_torso_a
+      Dependencies: {}
+    Info_824:
+      Name: c1979_armor_helmet_ladybug
+      Dependencies: {}
+    Info_825:
+      Name: c1719_weapon_double_bone
+      Dependencies: {}
+    Info_826:
+      Name: c1179_hat_cowboy
+      Dependencies: {}
+    Info_827:
+      Name: c1308_mouse_head_eyes
+      Dependencies: {}
+    Info_828:
+      Name: c1971_insect_legs
+      Dependencies: {}
+    Info_829:
+      Name: c1519_ears_dbaz_l
+      Dependencies: {}
+    Info_830:
+      Name: c1534_firehair
+      Dependencies: {}
+    Info_831:
+      Name: c2027_weapon_marshmallow
+      Dependencies: {}
+    Info_832:
+      Name: c1351_chained_l
+      Dependencies: {}
+    Info_833:
+      Name: c1320_ears_magnet_r
+      Dependencies: {}
+    Info_834:
+      Name: c2053_shoulder_brrbrian_r
+      Dependencies: {}
+    Info_835:
+      Name: c1581_armor_shoulder_pirate_r
+      Dependencies: {}
+    Info_836:
+      Name: c1822_weapon_rhinoclub
+      Dependencies: {}
+    Info_837:
+      Name: c600_mummy_armor_arm_r
+      Dependencies: {}
+    Info_838:
+      Name: c1923_firedancer_legs
+      Dependencies: {}
+    Info_839:
+      Name: c1684_hat_trash
+      Dependencies: {}
+    Info_840:
+      Name: c602_girl_head_eyes
+      Dependencies: {}
+    Info_841:
+      Name: c1919_ears_feathers_l
+      Dependencies: {}
+    Info_842:
+      Name: c2038_boyf_head_eyes
+      Dependencies: {}
+    Info_843:
+      Name: c2034_boyc_head_eyes
+      Dependencies: {}
+    Info_844:
+      Name: c1607_armor_backpack_shield
+      Dependencies: {}
+    Info_845:
+      Name: c1358_weapon_monkstaff
+      Dependencies: {}
+    Info_846:
+      Name: c1194_armor_shoulder_lbolt_l
+      Dependencies: {}
+    Info_847:
+      Name: c1802_ears_ncortex_r
+      Dependencies: {}
+    Info_848:
+      Name: c600_mummy_armor_arm_l
+      Dependencies: {}
+    Info_849:
+      Name: c1175_hat_bowler
+      Dependencies: {}
+    Info_850:
+      Name: c603_bird_armor_backpack
+      Dependencies: {}
+    Info_851:
+      Name: c1567_diver_legs
+      Dependencies: {}
+    Info_852:
+      Name: c1660_queen_legs
+      Dependencies: {}
+    Info_853:
+      Name: c1670_spunk_torso
+      Dependencies: {}
+    Info_854:
+      Name: c1937_weapon_monster
+      Dependencies: {}
+    Info_855:
+      Name: c1959_weapon_throw_badge
+      Dependencies: {}
+    Info_856:
+      Name: c1610_ears_firebird_l
+      Dependencies: {}
+    Info_857:
+      Name: c1958_weapon_lightning
+      Dependencies: {}
+    Info_858:
+      Name: c1148_weapon_bow_elf
+      Dependencies: {}
+    Info_859:
+      Name: c1298_sword_03
+      Dependencies: {}
+    Info_860:
+      Name: c1379_robin_torso
+      Dependencies: {}
+    Info_861:
+      Name: c1197_armor_shoulder_wood_r
+      Dependencies: {}
+    Info_862:
+      Name: c1612_armor_leg_firebird_r
+      Dependencies: {}
+    Info_863:
+      Name: c1105_armor_shoulder_gear_l
+      Dependencies: {}
+    Info_864:
+      Name: c1469_ears_dbarbarian_r
+      Dependencies: {}
+    Info_865:
+      Name: c1203_armor_arm_bonespike_r
+      Dependencies: {}
+    Info_866:
+      Name: c1536_ears_dragonhorns_l
+      Dependencies: {}
+    Info_867:
+      Name: c1089_armor_shoulder_metal_r
+      Dependencies: {}
+    Info_868:
+      Name: c2035_boyd_head_eyes
+      Dependencies: {}
+    Info_869:
+      Name: c1005_goblin_arms
+      Dependencies: {}
+    Info_870:
+      Name: c2016_hat_bunny
+      Dependencies: {}
+    Info_871:
+      Name: c1334_humanm_head_eyes
+      Dependencies: {}
+    Info_872:
+      Name: c1901_weapon_sword_chevron
+      Dependencies: {}
+    Info_873:
+      Name: c1942_weapon_tommy
+      Dependencies: {}
+    Info_874:
+      Name: c1390_sharkfin
+      Dependencies: {}
+    Info_875:
+      Name: c1984_ladybug_legs
+      Dependencies: {}
+    Info_876:
+      Name: c1645_weapon_wand_kaoswand
+      Dependencies: {}
+    Info_877:
+      Name: c1149_sword_gb
+      Dependencies: {}
+    Info_878:
+      Name: c1336_weapon_crystaff
+      Dependencies: {}
+    Info_879:
+      Name: c1294_armor_backpack_spyro
+      Dependencies: {}
+    Info_880:
+      Name: c1244_oneeye_head_eyes
+      Dependencies: {}
+    Info_881:
+      Name: c1472_weapon_dninja
+      Dependencies: {}
+    Info_882:
+      Name: c1234_armor_shoulder_shell_l
+      Dependencies: {}
+    Info_883:
+      Name: c1468_armor_helmet_dsaw
+      Dependencies: {}
+    Info_884:
+      Name: d312_armor_leg_l
+      Dependencies: {}
+    Info_885:
+      Name: c1188_hat_trafficcone
+      Dependencies: {}
+    Info_886:
+      Name: c1874_bolton_mrt
+      Dependencies: {}
+    Info_887:
+      Name: c1166_armor_shoulder_fire_l
+      Dependencies: {}
+    Info_888:
+      Name: c1934_mammalcute_head
+      Dependencies: {}
+    Info_889:
+      Name: c1170_dundeadskull_torso
+      Dependencies: {}
+    Info_890:
+      Name: c1975_shoulder_pumpkin_l
+      Dependencies: {}
+    Info_891:
+      Name: c1947_crazy_head_eyes
+      Dependencies: {}
+    Info_892:
+      Name: c2009_weapon_pistol_fish
+      Dependencies: {}
+    Info_893:
+      Name: c1830_ninja_head
+      Dependencies: {}
+    Info_894:
+      Name: c1323_genie_legs
+      Dependencies: {}
+    Info_895:
+      Name: c1656_wolf_tail
+      Dependencies: {}
+    Info_896:
+      Name: c1834_ears_ballerina_l
+      Dependencies: {}
+    Info_897:
+      Name: c1663_weapon_grim_club
+      Dependencies: {}
+    Info_898:
+      Name: c1434_6shooter
+      Dependencies: {}
+    Info_899:
+      Name: c1132_armor_leg_knightmare_l
+      Dependencies: {}
+    Info_900:
+      Name: c1089_armor_shoulder_metal_l
+      Dependencies: {}
+    Info_901:
+      Name: c1427_dogbear_head_eyes
+      Dependencies: {}
+    Info_902:
+      Name: c1877_ears_candy_l
+      Dependencies: {}
+    Info_903:
+      Name: c1137_armor_arm_ornament_r
+      Dependencies: {}
+    Info_904:
+      Name: c601_insect_armor_leg_l
+      Dependencies: {}
+    Info_905:
+      Name: c1192_armor_shoulder_metal_r
+      Dependencies: {}
+    Info_906:
+      Name: c1091_armor_shoulder_spiked_r
+      Dependencies: {}
+    Info_907:
+      Name: c1446_maleyoungd_head
+      Dependencies: {}
+    Info_908:
+      Name: c1530_female_legs
+      Dependencies: {}
+    Info_909:
+      Name: c1732_armor_leg_iballs_r
+      Dependencies: {}
+    Info_910:
+      Name: c1966_armor_backpack_spider
+      Dependencies: {}
+    Info_911:
+      Name: c1092_armor_shoulder_stone_l
+      Dependencies: {}
+    Info_912:
+      Name: c1198_armor_shoulder_metal_l
+      Dependencies: {}
+    Info_913:
+      Name: c1947_crazy_head
+      Dependencies: {}
+    Info_914:
+      Name: c1231_armor_shoulder_octo_r
+      Dependencies: {}
+    Info_915:
+      Name: c1886_ears_mouse_r
+      Dependencies: {}
+    Info_916:
+      Name: c1580_weapon_pirate_sword
+      Dependencies: {}
+    Info_917:
+      Name: c1123_armor_shoulder_horns_r
+      Dependencies: {}
+    Info_918:
+      Name: c1283_vine_arms
+      Dependencies: {}
+    Info_919:
+      Name: c1740_hat_boater
+      Dependencies: {}
+    Info_920:
+      Name: c1431_gillsplasher
+      Dependencies: {}
+    Info_921:
+      Name: c1566_ape_arms
+      Dependencies: {}
+    Info_922:
+      Name: c1432_batray
+      Dependencies: {}
+    Info_923:
+      Name: c1724_king_torso
+      Dependencies: {}
+    Info_924:
+      Name: c1885_ears_bear_l
+      Dependencies: {}
+    Info_925:
+      Name: c1099_armor_leg_woody_r
+      Dependencies: {}
+    Info_926:
+      Name: c1249_armor_arm_arkeyan_l
+      Dependencies: {}
+    Info_927:
+      Name: c1382_judo_torso
+      Dependencies: {}
+    Info_928:
+      Name: c2039_boye_head_eyes
+      Dependencies: {}
+    Info_929:
+      Name: c2023_commando_arms
+      Dependencies: {}
+    Info_930:
+      Name: c1823_scrow_head
+      Dependencies: {}
+    Info_931:
+      Name: c1150_gb_head_eyes
+      Dependencies: {}
+    Info_932:
+      Name: c1045_ninjini_torso_a
+      Dependencies: {}
+    Info_933:
+      Name: c600_mummy_weapon_khopesh
+      Dependencies: {}
+    Info_934:
+      Name: c1650_weapon_fist_kaosfist_l
+      Dependencies: {}
+    Info_935:
+      Name: c1769_weapon_chompymage
+      Dependencies: {}
+    Info_936:
+      Name: c1538_armor_shoulder_firedragon_r
+      Dependencies: {}
+    Info_937:
+      Name: c1408_bare_arms
+      Dependencies: {}
+    Info_938:
+      Name: c1900_weapon_sword_dragon
+      Dependencies: {}
+    Info_939:
+      Name: c1964_armor_arm_spider_r
+      Dependencies: {}
+    Info_940:
+      Name: c1268_wood_head
+      Dependencies: {}
+    Info_941:
+      Name: c1290_dgwarball_legs
+      Dependencies: {}
+    Info_942:
+      Name: c1734_equestrian_head
+      Dependencies: {}
+    Info_943:
+      Name: c1641_armor_arm_shell_l
+      Dependencies: {}
+    Info_944:
+      Name: c1892_weapon_bazooka_commando
+      Dependencies: {}
+    Info_945:
+      Name: c1064_hat_cactus
+      Dependencies: {}
+    Info_946:
+      Name: c1588_diver_backpack
+      Dependencies: {}
+    Info_947:
+      Name: c600_mummy_torso_b
+      Dependencies: {}
+    Info_948:
+      Name: c1652_ears_wolf_r
+      Dependencies: {}
+    Info_949:
+      Name: c1108_armor_leg_webs_l
+      Dependencies: {}
+    Info_950:
+      Name: c1204_armor_arm_watermelon_l
+      Dependencies: {}
+    Info_951:
+      Name: c603_bird_armor_leg_r
+      Dependencies: {}
+    Info_952:
+      Name: c1846_fossilbones_tail
+      Dependencies: {}
+    Info_953:
+      Name: c1200_armor_shoulder_croc_r
+      Dependencies: {}
+    Info_954:
+      Name: c1999_baby_head_eyes
+      Dependencies: {}
+    Info_955:
+      Name: c1796_armor_backpack_bflywings
+      Dependencies: {}
+    Info_956:
+      Name: c2001_baby_legs
+      Dependencies: {}
+    Info_957:
+      Name: c1487_vampire_arms
+      Dependencies: {}
+    Info_958:
+      Name: c1779_weapon_chain
+      Dependencies: {}
+    Info_959:
+      Name: c1949_skull_head
+      Dependencies: {}
+    Info_960:
+      Name: c1924_bot_legs
+      Dependencies: {}
+    Info_961:
+      Name: c1442_weapon_crystals
+      Dependencies: {}
+    Info_962:
+      Name: c1634_armor_arm_fireman_r
+      Dependencies: {}
+    Info_963:
+      Name: c1136_armor_arm_chain_r
+      Dependencies: {}
+    Info_964:
+      Name: c1672_armor_helmet_spunk
+      Dependencies: {}
+    Info_965:
+      Name: c1001_skeleton_arms
+      Dependencies: {}
+    Info_966:
+      Name: c1111_armor_arm_brick_l
+      Dependencies: {}
+    Info_967:
+      Name: c1207_armor_arm_techeye_l
+      Dependencies: {}
+    Info_968:
+      Name: c1886_ears_mouse_l
+      Dependencies: {}
+    Info_969:
+      Name: c2077_hat_fire
+      Dependencies: {}
+    Info_970:
+      Name: c1949_skull_head_eyes
+      Dependencies: {}
+    Info_971:
+      Name: c1189_hat_santa
+      Dependencies: {}
+    Info_972:
+      Name: c1477_weapon_blade_wood
+      Dependencies: {}
+    Info_973:
+      Name: c1264_robot_legs
+      Dependencies: {}
+    Info_974:
+      Name: c602_girl_head
+      Dependencies: {}
+    Info_975:
+      Name: c1582_ears_pirate_r
+      Dependencies: {}
+    Info_976:
+      Name: c1277_jester_arms
+      Dependencies: {}
+    Info_977:
+      Name: c1644_weapon_axe_kaosaxe
+      Dependencies: {}
+    Info_978:
+      Name: c601_insect_armor_arm_l
+      Dependencies: {}
+    Info_979:
+      Name: c1694_bolton_sparta
+      Dependencies: {}
+    Info_980:
+      Name: c1000_foodfight_head_eyes
+      Dependencies: {}
+    Info_981:
+      Name: c1871_lemur_tail
+      Dependencies: {}
+    Info_982:
+      Name: c1345_ears_para_l
+      Dependencies: {}
+    Info_983:
+      Name: c1626_faun_head_eyes
+      Dependencies: {}
+    Info_984:
+      Name: c1086_armor_helmet_vase
+      Dependencies: {}
+    Info_985:
+      Name: c1560_witch_legs
+      Dependencies: {}
+    Info_986:
+      Name: c1409_robot_naga
+      Dependencies: {}
+    Info_987:
+      Name: c1091_armor_shoulder_spiked_l
+      Dependencies: {}
+    Info_988:
+      Name: c1876_armor_helmet_candy
+      Dependencies: {}
+    Info_989:
+      Name: c1262_ears_fishgirl_r
+      Dependencies: {}
+    Info_990:
+      Name: c600_mummy_armor_leg_l
+      Dependencies: {}
+    Info_991:
+      Name: c2013_weapon_bazooka_lava
+      Dependencies: {}
+    Info_992:
+      Name: c1725_king_arms
+      Dependencies: {}
+    Info_993:
+      Name: c1561_glad
+      Dependencies: {}
+    Info_994:
+      Name: c1823_scrow_head_eyes
+      Dependencies: {}
+    Info_995:
+      Name: c1456_weapon_flower
+      Dependencies: {}
+    Info_996:
+      Name: c1512_snowman_arms
+      Dependencies: {}
+    Info_997:
+      Name: c1570_musketeer_arms
+      Dependencies: {}
+    Info_998:
+      Name: c1112_armor_arm_iron_l
+      Dependencies: {}
+    Info_999:
+      Name: c1197_armor_shoulder_wood_l
+      Dependencies: {}
+    Info_1000:
+      Name: c1582_ears_pirate_l
+      Dependencies: {}
+    Info_1001:
+      Name: c1385_superhero_torso
+      Dependencies: {}
+    Info_1002:
+      Name: c1770_armor_backpack_airstrike
+      Dependencies: {}
+    Info_1003:
+      Name: c1303_sword_08
+      Dependencies: {}
+    Info_1004:
+      Name: c1643_weapon_bazooka_kaosbazooka
+      Dependencies: {}
+    Info_1005:
+      Name: c1799_airstrikefist_l
+      Dependencies: {}
+    Info_1006:
+      Name: c601_insect_armor_leg_r
+      Dependencies: {}
+    Info_1007:
+      Name: c1437_paraoh_torso
+      Dependencies: {}
+    Info_1008:
+      Name: c1420_woody_legs
+      Dependencies: {}
+    Info_1009:
+      Name: c1926_ragdoll_head
+      Dependencies: {}
+    Info_1010:
+      Name: c1541_demon_arms
+      Dependencies: {}
+    Info_1011:
+      Name: c1912_bull_head_eyes
+      Dependencies: {}
+    Info_1012:
+      Name: c1960_weapon_throw_xbones
+      Dependencies: {}
+    Info_1013:
+      Name: c1036_blade_tail
+      Dependencies: {}
+    Info_1014:
+      Name: c1987_lampman_arms
+      Dependencies: {}
+    Info_1015:
+      Name: c1196_armor_shoulder_feathers_l
+      Dependencies: {}
+    Info_1016:
+      Name: c1881_armor_backpack_candy
+      Dependencies: {}
+    Info_1017:
+      Name: c1555_squid_legs
+      Dependencies: {}
+    Info_1018:
+      Name: c1355_studdedfist_l
+      Dependencies: {}
+    Info_1019:
+      Name: c1974_pumpkin_head
+      Dependencies: {}
+    Info_1020:
+      Name: c2004_gargoyle_head
+      Dependencies: {}
+    Info_1021:
+      Name: c1605_bknigth_head
+      Dependencies: {}
+    Info_1022:
+      Name: c1918_bolton_feathers
+      Dependencies: {}
+    Info_1023:
+      Name: c1803_armor_arm_lion_r
+      Dependencies: {}
+    Info_1024:
+      Name: c1253_armor_arm_beads_r
+      Dependencies: {}
+    Info_1025:
+      Name: c1027_firegirl_head
+      Dependencies: {}
+    Info_1026:
+      Name: c1928_fshmnstr_head
+      Dependencies: {}
+    Info_1027:
+      Name: c1628_faun_tail
+      Dependencies: {}
+    Info_1028:
+      Name: c1891_weapon_diamond
+      Dependencies: {}
+    Info_1029:
+      Name: c1220_armor_arm_leaf_l
+      Dependencies: {}
+    Info_1030:
+      Name: c2050_weapon_bow_mage
+      Dependencies: {}
+    Info_1031:
+      Name: c1651_weapon_thrown_kaosglaive
+      Dependencies: {}
+    Info_1032:
+      Name: c1793_firemask_head
+      Dependencies: {}
+    Info_1033:
+      Name: c1232_armor_shoulder_sun_r
+      Dependencies: {}
+    Info_1034:
+      Name: c1103_armor_shoulder_spiked_r
+      Dependencies: {}
+    Info_1035:
+      Name: c1612_armor_leg_firebird_l
+      Dependencies: {}
+    Info_1036:
+      Name: c1243_retrobot_head_eyes
+      Dependencies: {}
+    Info_1037:
+      Name: c1630_armor_shoulder_faun_r
+      Dependencies: {}
+    Info_1038:
+      Name: d203_armor_helmet
+      Dependencies: {}
+    Info_1039:
+      Name: c1268_wood_head_eyes
+      Dependencies: {}
+    Info_1040:
+      Name: c1716_weapon_throw_life
+      Dependencies: {}
+    Info_1041:
+      Name: c1909_weapon_pinwheel
+      Dependencies: {}
+    Info_1042:
+      Name: c1806_girlc_head
+      Dependencies: {}
+    Info_1043:
+      Name: c1784_armor_helmet_bloom
+      Dependencies: {}
+    Info_1044:
+      Name: c1491_raptor_head_eyes
+      Dependencies: {}
+    Info_1045:
+      Name: c1921_firedancer_torso
+      Dependencies: {}
+    Info_1046:
+      Name: c1756_armor_leg_conbot_l
+      Dependencies: {}
+    Info_1047:
+      Name: c1912_bull_head
+      Dependencies: {}
+    Info_1048:
+      Name: c1807_girld_head_eyes
+      Dependencies: {}
+    Info_1049:
+      Name: c600_mummy_armor_shoulder_l
+      Dependencies: {}
+    Info_1050:
+      Name: c1085_armor_shoulder_spiked_r
+      Dependencies: {}
+    Info_1051:
+      Name: c1430_alligator_tail
+      Dependencies: {}
+    Info_1052:
+      Name: c1640_armor_shoulder_clam_l
+      Dependencies: {}
+    Info_1053:
+      Name: c1413_armor_helmet_hair1
+      Dependencies: {}
+    Info_1054:
+      Name: c1317_ears_trumpet_l
+      Dependencies: {}
+    Info_1055:
+      Name: c1315_ears_cow_r
+      Dependencies: {}
+    Info_1056:
+      Name: c1618_armor_shoulder_wland_r
+      Dependencies: {}
+    Info_1057:
+      Name: c1768_princess_legs
+      Dependencies: {}
+    Info_1058:
+      Name: c1803_armor_arm_lion_l
+      Dependencies: {}
+    Info_1059:
+      Name: c1955_rockhelm_head
+      Dependencies: {}
+    Info_1060:
+      Name: c1553_armor_shoulder_squid_r
+      Dependencies: {}
+    Info_1061:
+      Name: c1632_fireman_torso
+      Dependencies: {}
+    Info_1062:
+      Name: c1401_ears_decowing_r
+      Dependencies: {}
+    Info_1063:
+      Name: c1203_armor_arm_bonespike_l
+      Dependencies: {}
+    Info_1064:
+      Name: c1260_armor_leg_doomlander_r
+      Dependencies: {}
+    Info_1065:
+      Name: c1161_armor_arm_fish_l
+      Dependencies: {}
+    Info_1066:
+      Name: c1141_armor_shoulder_air_l
+      Dependencies: {}
+    Info_1067:
+      Name: c1936_weapon_bow_snake
+      Dependencies: {}
+    Info_1068:
+      Name: c2030_ears_cyborg_l
+      Dependencies: {}
+    Info_1069:
+      Name: c1242_lizard_head
+      Dependencies: {}
+    Info_1070:
+      Name: c600_mummy_head_eyes
+      Dependencies: {}
+    Info_1071:
+      Name: c1501_princess_tasset
+      Dependencies: {}
+    Info_1072:
+      Name: c2056_weapon_doubler_redice
+      Dependencies: {}
+    Info_1073:
+      Name: c1372_tiki_torso
+      Dependencies: {}
+    Info_1074:
+      Name: c1883_ears_dog_l
+      Dependencies: {}
+    Info_1075:
+      Name: c1861_tux_legs
+      Dependencies: {}
+    Info_1076:
+      Name: c1080_armor_shoulder_leather_r
+      Dependencies: {}
+    Info_1077:
+      Name: c1794_bolton_gear
+      Dependencies: {}
+    Info_1078:
+      Name: c1653_wolf_torso
+      Dependencies: {}
+    Info_1079:
+      Name: c1857_ears_satellite_l
+      Dependencies: {}
+    Info_1080:
+      Name: c1508_scopion_naga
+      Dependencies: {}
+    Info_1081:
+      Name: c1288_dgwarball_head
+      Dependencies: {}
+    Info_1082:
+      Name: c1624_armor_leg_turtle_l
+      Dependencies: {}
+    Info_1083:
+      Name: c1356_taserfist_l
+      Dependencies: {}
+    Info_1084:
+      Name: c2032_cyborg_arms
+      Dependencies: {}
+    Info_1085:
+      Name: c1706_sword_life
+      Dependencies: {}
+    Info_1086:
+      Name: c1782_armor_leg_earth_r
+      Dependencies: {}
+    Info_1087:
+      Name: c2063_weapon_bow_fun
+      Dependencies: {}
+    Info_1088:
+      Name: c1638_armor_helmet_shell
+      Dependencies: {}
+    Info_1089:
+      Name: c1910_weapon_regal
+      Dependencies: {}
+    Info_1090:
+      Name: c1236_armor_shoulder_spike_r
+      Dependencies: {}
+    Info_1091:
+      Name: c1102_armor_leg_bone_r
+      Dependencies: {}
+    Info_1092:
+      Name: c1029_chopchop_head_eyes
+      Dependencies: {}
+    Info_1093:
+      Name: c1633_armor_shoulder_fireman_l
+      Dependencies: {}
+    Info_1094:
+      Name: c2036_orc_head
+      Dependencies: {}
+    Info_1095:
+      Name: c1773_weapons_juju
+      Dependencies: {}
+    Info_1096:
+      Name: c2026_beaver_tail
+      Dependencies: {}
+    Info_1097:
+      Name: c1208_ears_fryno_r
+      Dependencies: {}
+    Info_1098:
+      Name: c1755_armor_arm_conbot_l
+      Dependencies: {}
+    Info_1099:
+      Name: c1398_weapon_doublebarrel
+      Dependencies: {}
+    Info_1100:
+      Name: c1436_raccoon_tail
+      Dependencies: {}
+    Info_1101:
+      Name: c1859_torn_cape
+      Dependencies: {}
+    Info_1102:
+      Name: c1525_armor_leg_darcher_l
+      Dependencies: {}
+    Info_1103:
+      Name: c1542_spark_head
+      Dependencies: {}
+    Info_1104:
+      Name: c1085_armor_shoulder_spiked_l
+      Dependencies: {}
+    Info_1105:
+      Name: c2028_armor_helmet_cyborg
+      Dependencies: {}
+    Info_1106:
+      Name: c1470_armor_arm_dbarbarian_r
+      Dependencies: {}
+    Info_1107:
+      Name: c1301_sword_06
+      Dependencies: {}
+    Info_1108:
+      Name: c1243_retrobot_head
+      Dependencies: {}
+    Info_1109:
+      Name: c1056_weapon_rpin_club
+      Dependencies: {}
+    Info_1110:
+      Name: c1024_pirate_head
+      Dependencies: {}
+    Info_1111:
+      Name: c1041_lobsterbig_tail
+      Dependencies: {}
+    Info_1112:
+      Name: c1162_armor_shoulder_skull_l
+      Dependencies: {}
+    Info_1113:
+      Name: c1763_weapon_blast
+      Dependencies: {}
+    Info_1114:
+      Name: c1810_girlg_head_eyes
+      Dependencies: {}
+    Info_1115:
+      Name: c1316_ears_gargoyle_l
+      Dependencies: {}
+    Info_1116:
+      Name: c1020_fryno_head_eyes
+      Dependencies: {}
+    Info_1117:
+      Name: c1574_weapon_rapier
+      Dependencies: {}
+    Info_1118:
+      Name: c1159_armor_arm_pointy_r
+      Dependencies: {}
+    Info_1119:
+      Name: c1761_weapon_cat
+      Dependencies: {}
+    Info_1120:
+      Name: c2046_weapon_bow_spark
+      Dependencies: {}
+    Info_1121:
+      Name: c1753_conbot_torso
+      Dependencies: {}
+    Info_1122:
+      Name: c1506_undead_tasset
+      Dependencies: {}
+    Info_1123:
+      Name: c1412_knight_torso
+      Dependencies: {}
+    Info_1124:
+      Name: c1883_ears_dog_r
+      Dependencies: {}
+    Info_1125:
+      Name: c1880_armor_leg_candy_r
+      Dependencies: {}
+    Info_1126:
+      Name: c1011_bushwhack_torso_a
+      Dependencies: {}
+    Info_1127:
+      Name: c1062_hat_aviator
+      Dependencies: {}
+    Info_1128:
+      Name: c1603_spark_naga
+      Dependencies: {}
+    Info_1129:
+      Name: c1320_ears_magnet_l
+      Dependencies: {}
+    Info_1130:
+      Name: c1880_armor_leg_candy_l
+      Dependencies: {}
+    Info_1131:
+      Name: c1305_weapon_bow_dandylion
+      Dependencies: {}
+    Info_1132:
+      Name: c1028_robotbouncer_head
+      Dependencies: {}
+    Info_1133:
+      Name: c1801_weapon_ncortex
+      Dependencies: {}
+    Info_1134:
+      Name: c1729_iballs_torso
+      Dependencies: {}
+    Info_1135:
+      Name: c1030_skeleton_head
+      Dependencies: {}
+    Info_1136:
+      Name: c1267_armor_helmet_dskull
+      Dependencies: {}
+    Info_1137:
+      Name: c1100_armor_leg_wingfoot_r
+      Dependencies: {}
+    Info_1138:
+      Name: c1433_flintlockbanana
+      Dependencies: {}
+    Info_1139:
+      Name: c1687_hat_candle
+      Dependencies: {}
+    Info_1140:
+      Name: c1067_weapon_pan_club
+      Dependencies: {}
+    Info_1141:
+      Name: c1151_gb_torso
+      Dependencies: {}
+    Info_1142:
+      Name: c1809_girlf_head_eyes
+      Dependencies: {}
+    Info_1143:
+      Name: c1222_armor_shoulder_skull_l
+      Dependencies: {}
+    Info_1144:
+      Name: c1963_armor_shoulder_spider_l
+      Dependencies: {}
+    Info_1145:
+      Name: c1500_nature_tasset
+      Dependencies: {}
+    Info_1146:
+      Name: c2076_helmet_kaos
+      Dependencies: {}
+    Info_1147:
+      Name: c1318_ears_pencil_l
+      Dependencies: {}
+    Info_1148:
+      Name: c1194_armor_shoulder_lbolt_r
+      Dependencies: {}
+    Info_1149:
+      Name: c1485_vampire_head_eyes
+      Dependencies: {}
+    Info_1150:
+      Name: c1352_engagementring_l
+      Dependencies: {}
+    Info_1151:
+      Name: c1081_armor_helmet_spike
+      Dependencies: {}
+    Info_1152:
+      Name: c1139_armor_arm_straps_r
+      Dependencies: {}
+    Info_1153:
+      Name: c1113_armor_arm_metalwood_l
+      Dependencies: {}
+    Info_1154:
+      Name: c1000_mummy_tail
+      Dependencies: {}
+    Info_1155:
+      Name: c1273_armor_shoulder_dspikes_l
+      Dependencies: {}
+    Info_1156:
+      Name: c1415_ears_jackal_r
+      Dependencies: {}
+    Info_1157:
+      Name: c1649_weapon_blade_kaosdagger
+      Dependencies: {}
+    Info_1158:
+      Name: c1833_hat_tiara
+      Dependencies: {}
+    Info_1159:
+      Name: c1446_maleyoungd_head_eyes
+      Dependencies: {}
+    Info_1160:
+      Name: c1723_armor_shoulder_king_l
+      Dependencies: {}
+    Info_1161:
+      Name: c1581_armor_shoulder_pirate_l
+      Dependencies: {}
+    Info_1162:
+      Name: c1123_armor_shoulder_horns_l
+      Dependencies: {}
+    Info_1163:
+      Name: c1870_lynx_tail
+      Dependencies: {}
+    Info_1164:
+      Name: c1263_armor_helmet_fishgirl
+      Dependencies: {}
+    Info_1165:
+      Name: c1694_armor_shoulder_sparta_r
+      Dependencies: {}
+    Info_1166:
+      Name: c2059_weapon_fist_teddy_l
+      Dependencies: {}
+    Info_1167:
+      Name: c1518_armor_arm_dbaz_r
+      Dependencies: {}
+    Info_1168:
+      Name: c1636_seahorse_head
+      Dependencies: {}
+    Info_1169:
+      Name: c1246_maleyoungb_head
+      Dependencies: {}
+    Info_1170:
+      Name: c1206_armor_arm_canister_r
+      Dependencies: {}
+    Info_1171:
+      Name: c1878_candy_torso
+      Dependencies: {}
+    Info_1172:
+      Name: c1223_armor_shoulder_eagle_r
+      Dependencies: {}
+    Info_1173:
+      Name: c1346_weapon_bostaff
+      Dependencies: {}
+    Info_1174:
+      Name: c1425_bone_tail
+      Dependencies: {}
+    Info_1175:
+      Name: c1867_armor_leg_knight_l
+      Dependencies: {}
+    Info_1176:
+      Name: c1220_armor_arm_leaf_r
+      Dependencies: {}
+    Info_1177:
+      Name: c1785_wolfgang_legs
+      Dependencies: {}
+    Info_1178:
+      Name: c1920_firedancer_head_eyes
+      Dependencies: {}
+    Info_1179:
+      Name: c1705_weapon_bazooka_4barrel
+      Dependencies: {}
+    Info_1180:
+      Name: c1007_robot_legs
+      Dependencies: {}
+    Info_1181:
+      Name: c1418_armor_helmet_tentacle
+      Dependencies: {}
+    Info_1182:
+      Name: c1271_armor_arm_dspike_l
+      Dependencies: {}
+    Info_1183:
+      Name: c1259_vest_torso
+      Dependencies: {}
+    Info_1184:
+      Name: c1756_armor_leg_conbot_r
+      Dependencies: {}
+    Info_1185:
+      Name: c1908_weapon_creamstaff
+      Dependencies: {}
+    Info_1186:
+      Name: c1260_armor_leg_doomlander_l
+      Dependencies: {}
+    Info_1187:
+      Name: c1131_armor_leg_temple_r
+      Dependencies: {}
+    Info_1188:
+      Name: c1265_dskullhelmet_head
+      Dependencies: {}
+    Info_1189:
+      Name: c1276_armor_backpack_flying
+      Dependencies: {}
+    Info_1190:
+      Name: c1522_armor_helmet_dswords
+      Dependencies: {}
+    Info_1191:
+      Name: c1721_weapon_double_spike
+      Dependencies: {}
+    Info_1192:
+      Name: c2078_flower_head
+      Dependencies: {}
+    Info_1193:
+      Name: c1673_armor_backpack_spunk
+      Dependencies: {}
+    Info_1194:
+      Name: c1111_armor_arm_brick_r
+      Dependencies: {}
+    Info_1195:
+      Name: c1943_weapon_bazooka_steam
+      Dependencies: {}
+    Info_1196:
+      Name: c1811_crashbandicoot_l
+      Dependencies: {}
+    Info_1197:
+      Name: c1804_girla_head_eyes
+      Dependencies: {}
+    Info_1198:
+      Name: c1140_armor_shoulder_cold_l
+      Dependencies: {}
+    Info_1199:
+      Name: c1590_chompy_head
+      Dependencies: {}
+    Info_1200:
+      Name: c2054_bear_arms
+      Dependencies: {}
+    Info_1201:
+      Name: c1429_weapon_barracuda
+      Dependencies: {}
+    Info_1202:
+      Name: c1343_ears_busw2_r
+      Dependencies: {}
+    Info_1203:
+      Name: c2048_weapon_bow_scorpio
+      Dependencies: {}
+    Info_1204:
+      Name: c1027_firegirl_head_eyes
+      Dependencies: {}
+    Info_1205:
+      Name: c1447_weapon_sai
+      Dependencies: {}
+    Info_1206:
+      Name: c1637_seahorse_torso
+      Dependencies: {}
+    Info_1207:
+      Name: c1882_hat_umbrella
+      Dependencies: {}
+    Info_1208:
+      Name: c1134_armor_arm_rugged_l
+      Dependencies: {}
+    Info_1209:
+      Name: c1474_armor_shoulder_dninja_l
+      Dependencies: {}
+    Info_1210:
+      Name: c1517_weapon_candycane
+      Dependencies: {}
+    Info_1211:
+      Name: c1230_armor_arm_glass_r
+      Dependencies: {}
+    Info_1212:
+      Name: c1322_plate_legs
+      Dependencies: {}
+    Info_1213:
+      Name: c1258_rufus_torso
+      Dependencies: {}
+    Info_1214:
+      Name: c1616_wland_arms
+      Dependencies: {}
+    Info_1215:
+      Name: c1961_mushroom_head_eyes
+      Dependencies: {}
+    Info_1216:
+      Name: c1471_weapon_dbarbarian
+      Dependencies: {}
+    Info_1217:
+      Name: c1549_pangolin_naga
+      Dependencies: {}
+    Info_1218:
+      Name: c1533_knigth_legs
+      Dependencies: {}
+    Info_1219:
+      Name: c1927_roboskull_head_eyes
+      Dependencies: {}
+    Info_1220:
+      Name: c1251_armor_arm_eye_r
+      Dependencies: {}
+    Info_1221:
+      Name: c1244_oneeye_head
+      Dependencies: {}
+    Info_1222:
+      Name: c2053_shoulder_brrbrian_l
+      Dependencies: {}
+    Info_1223:
+      Name: c602_dgirl_arms
+      Dependencies: {}
+    Info_1224:
+      Name: c1827_scrow_legs
+      Dependencies: {}
+    Info_1225:
+      Name: c1006_drill_arms
+      Dependencies: {}
+    Info_1226:
+      Name: c1131_armor_leg_temple_l
+      Dependencies: {}
+    Info_1227:
+      Name: c1978_cuteleaf_head
+      Dependencies: {}
+    Info_1228:
+      Name: c1565_glad_legs
+      Dependencies: {}
+    Info_1229:
+      Name: c1788_armor_shoulder_lion_l
+      Dependencies: {}
+    Info_1230:
+      Name: c1150_gb_head
+      Dependencies: {}
+    Info_1231:
+      Name: c1940_weapon_fist_eye_l
+      Dependencies: {}
+    Info_1232:
+      Name: c1242_lizard_head_eyes
+      Dependencies: {}
+    Info_1233:
+      Name: c1202_armor_shoulder_leather_r
+      Dependencies: {}
+    Info_1234:
+      Name: c1295_boraz_head
+      Dependencies: {}
+    Info_1235:
+      Name: c1625_armor_backpack_turt
+      Dependencies: {}
+    Info_1236:
+      Name: c1671_spunk_arms
+      Dependencies: {}
+    Info_1237:
+      Name: c1473_armor_helmet_dninja
+      Dependencies: {}
+    Info_1238:
+      Name: c1387_weapon_bazookagreen
+      Dependencies: {}
+    Info_1239:
+      Name: c1806_girlc_head_eyes
+      Dependencies: {}
+    Info_1240:
+      Name: c1239_nature_head_eyes
+      Dependencies: {}
+    Info_1241:
+      Name: c1324_commando_legs
+      Dependencies: {}
+    Info_1242:
+      Name: c1255_ears_spyro_l
+      Dependencies: {}
+    Info_1243:
+      Name: c2067_weapon_bow_tech
+      Dependencies: {}
+    Info_1244:
+      Name: c600_mummy_torso
+      Dependencies: {}
+    Info_1245:
+      Name: c1476_weapon_bazooka_tree
+      Dependencies: {}
+    Info_1246:
+      Name: c1250_armor_arm_diamond_r
+      Dependencies: {}
+    Info_1247:
+      Name: c1096_armor_arm_furnace_r
+      Dependencies: {}
+    Info_1248:
+      Name: c1303_squid_head_eyes
+      Dependencies: {}
+    Info_1249:
+      Name: c1269_dtatter_arms
+      Dependencies: {}
+    Info_1250:
+      Name: c1132_armor_leg_knightmare_r
+      Dependencies: {}
+    Info_1251:
+      Name: c1321_ears_ram_l
+      Dependencies: {}
+    Info_1252:
+      Name: c1764_armor_backpack_hoodsickle
+      Dependencies: {}
+    Info_1253:
+      Name: c1563_glad_torso
+      Dependencies: {}
+    Info_1254:
+      Name: c1299_sword_04
+      Dependencies: {}
+    Info_1255:
+      Name: c1780_weapon_roman
+      Dependencies: {}
+    Info_1256:
+      Name: c603_bird_torso
+      Dependencies: {}
+    Info_1257:
+      Name: c2056_weapon_firehydrant
+      Dependencies: {}
+    Info_1258:
+      Name: c1307_vorm_head_eyes
+      Dependencies: {}
+    Info_1259:
+      Name: c1403_ears_tentacles_l
+      Dependencies: {}
+    Info_1260:
+      Name: c1438_weapon_gladius
+      Dependencies: {}
+    Info_1261:
+      Name: c1945_dragon_head
+      Dependencies: {}
+    Info_1262:
+      Name: c1913_leaf_head_eyes
+      Dependencies: {}
+    Info_1263:
+      Name: c2082_weapon_bow_water
+      Dependencies: {}
+    Info_1264:
+      Name: c1766_princess_torso
+      Dependencies: {}
+    Info_1265:
+      Name: c1055_weapon_fish_club
+      Dependencies: {}
+    Info_1266:
+      Name: c1139_armor_arm_straps_l
+      Dependencies: {}
+    Info_1267:
+      Name: c1161_armor_arm_fish_r
+      Dependencies: {}
+    Info_1268:
+      Name: c1701_hat_cornucopia
+      Dependencies: {}
+    Info_1269:
+      Name: c1024_pirate_head_eyes
+      Dependencies: {}
+    Info_1270:
+      Name: c1554_squid_torso
+      Dependencies: {}
+    Info_1271:
+      Name: c1903_ape_legs
+      Dependencies: {}
+    Info_1272:
+      Name: c1812_birdman_tail
+      Dependencies: {}
+    Info_1273:
+      Name: c1970_insect_arms
+      Dependencies: {}
+    Info_1274:
+      Name: c1329_dbrain_head_eyes
+      Dependencies: {}
+    Info_1275:
+      Name: c2052_bear_torso
+      Dependencies: {}
+    Info_1276:
+      Name: c1271_armor_arm_dspike_r
+      Dependencies: {}
+    Info_1277:
+      Name: c1948_monking_head
+      Dependencies: {}
+    Info_1278:
+      Name: c1914_weapon_wornglow
+      Dependencies: {}
+    Info_1279:
+      Name: c2035_boyd_head
+      Dependencies: {}
+    Info_1280:
+      Name: c1445_maleyoungc_head
+      Dependencies: {}
+    Info_1281:
+      Name: c1890_weapon_deathspiral
+      Dependencies: {}
+    Info_1282:
+      Name: c1414_camera_head_eyes
+      Dependencies: {}
+    Info_1283:
+      Name: c1178_hat_carrot
+      Dependencies: {}
+    Info_1284:
+      Name: c1528_female_arms
+      Dependencies: {}
+    Info_1285:
+      Name: c1164_armor_shoulder_leaf_l
+      Dependencies: {}
+    Info_1286:
+      Name: c1329_dbrain_head
+      Dependencies: {}
+    Info_1287:
+      Name: c1843_fossilbones_head
+      Dependencies: {}
+    Info_1288:
+      Name: c1879_armor_arm_candy_l
+      Dependencies: {}
+    Info_1289:
+      Name: c1540_mermaid_naga
+      Dependencies: {}
+    Info_1290:
+      Name: c2033_boya_head_eyes
+      Dependencies: {}
+    Info_1291:
+      Name: c1968_insect_head
+      Dependencies: {}
+    Info_1292:
+      Name: c1252_armor_arm_dragon_r
+      Dependencies: {}
+    Info_1293:
+      Name: c1245_maleyounga_head
+      Dependencies: {}
+    Info_1294:
+      Name: c1752_conbot_arms
+      Dependencies: {}
+    Info_1295:
+      Name: c1262_ears_fishgirl_l
+      Dependencies: {}
+    Info_1296:
+      Name: c1163_armor_shoulder_rock_r
+      Dependencies: {}
+    Info_1297:
+      Name: c1377_armor_backpack_crystal
+      Dependencies: {}
+    Info_1298:
+      Name: c1316_ears_gargoyle_r
+      Dependencies: {}
+    Info_1299:
+      Name: c1245_maleyounga_head_eyes
+      Dependencies: {}
+    Info_1300:
+      Name: c603_bird_arms
+      Dependencies: {}
+    Info_1301:
+      Name: c1435_weapon_bazookablastert
+      Dependencies: {}
+    Info_1302:
+      Name: c1300_weapon_bow_heavymetal
+      Dependencies: {}
+    Info_1303:
+      Name: c1594_ape_torso
+      Dependencies: {}
+    Info_1304:
+      Name: c1983_armor_shoulder_ladybug_l
+      Dependencies: {}
+    Info_1305:
+      Name: c600_mummy_armor_backpack
+      Dependencies: {}
+    Info_1306:
+      Name: c1402_ears_shell_l
+      Dependencies: {}
+    Info_1307:
+      Name: c1704_weapon_pistol_greenray
+      Dependencies: {}
+    Info_1308:
+      Name: c1125_armor_shoulder_artdeco_l
+      Dependencies: {}
+    Info_1309:
+      Name: c1746_weapon_double_fsam
+      Dependencies: {}
+    Info_1310:
+      Name: c1303_squid_head
+      Dependencies: {}
+    Info_1311:
+      Name: c1648_weapon_pistol_kaospistol
+      Dependencies: {}
+    Info_1312:
+      Name: c1483_weapon_donut
+      Dependencies: {}
+    Info_1313:
+      Name: c2074_weapon_bazooka_real
+      Dependencies: {}
+    Info_1314:
+      Name: c1163_armor_shoulder_rock_l
+      Dependencies: {}
+    Info_1315:
+      Name: c1681_hat_colander
+      Dependencies: {}
+    Info_1316:
+      Name: c1423_scorpion_tail
+      Dependencies: {}
+    Info_1317:
+      Name: c1395_stegasaurus
+      Dependencies: {}
+    Info_1318:
+      Name: c1229_armor_arm_rivet_l
+      Dependencies: {}
+    Info_1319:
+      Name: c1552_squid_head
+      Dependencies: {}
+    Info_1320:
+      Name: c2018_ears_bullhorn_r
+      Dependencies: {}
+    Info_1321:
+      Name: c1335_weapon_ballstaff
+      Dependencies: {}
+    Info_1322:
+      Name: c1899_weapon_sword_magicb
+      Dependencies: {}
+    Info_1323:
+      Name: c1946_troll_head_eyes
+      Dependencies: {}
+    Info_1324:
+      Name: c1596_armor_helmet_samurai
+      Dependencies: {}
+    Info_1325:
+      Name: c1821_pufferfishclub
+      Dependencies: {}
+    Info_1326:
+      Name: c1715_weapon_airstrikefist_l
+      Dependencies: {}
+    Info_1327:
+      Name: c1112_armor_arm_iron_r
+      Dependencies: {}
+    Info_1328:
+      Name: c1495_rocketeer_head
+      Dependencies: {}
+    Info_1329:
+      Name: c2042_athlete_torso
+      Dependencies: {}
+    Info_1330:
+      Name: c1622_armor_shoulder_turtle_r
+      Dependencies: {}
+    Info_1331:
+      Name: c601_insect_armor_shoulder_l
+      Dependencies: {}
+    Info_1332:
+      Name: c1171_hat_awesome
+      Dependencies: {}
+    Info_1333:
+      Name: c1411_jerkin_torso
+      Dependencies: {}
+    Info_1334:
+      Name: c1470_armor_arm_dbarbarian_l
+      Dependencies: {}
+    Info_1335:
+      Name: c1136_armor_arm_chain_l
+      Dependencies: {}
+    Info_1336:
+      Name: c1531_female_head_eyes
+      Dependencies: {}
+    Info_1337:
+      Name: c1720_weapon_double_mummy
+      Dependencies: {}
+    Info_1338:
+      Name: c1781_armor_shoulder_star_l
+      Dependencies: {}
+    Info_1339:
+      Name: c1247_snake_tail
+      Dependencies: {}
+    Info_1340:
+      Name: c1201_armor_shoulder_stone_l
+      Dependencies: {}
+    Info_1341:
+      Name: c1897_weapon_bow_dragon
+      Dependencies: {}
+    Info_1342:
+      Name: c1208_ears_fryno_l
+      Dependencies: {}
+    Info_1343:
+      Name: c1793_armor_arm_bshot_r
+      Dependencies: {}
+    Info_1344:
+      Name: c1319_ears_corn_l
+      Dependencies: {}
+    Info_1345:
+      Name: c1134_armor_arm_rugged_r
+      Dependencies: {}
+    Info_1346:
+      Name: c1448_weapon_banana
+      Dependencies: {}
+    Info_1347:
+      Name: c1907_weapon_ramstaff
+      Dependencies: {}
+    Info_1348:
+      Name: c1334_weapon_dbrain
+      Dependencies: {}
+    Info_1349:
+      Name: c1304_cyclops_head
+      Dependencies: {}
+    Info_1350:
+      Name: c1817_weapon_unicorn_club
+      Dependencies: {}
+    Info_1351:
+      Name: c1457_rock_head
+      Dependencies: {}
+    Info_1352:
+      Name: c1361_ears_bat_l
+      Dependencies: {}
+    Info_1353:
+      Name: c1340_humanm2_head
+      Dependencies: {}
+    Info_1354:
+      Name: c1337_weapon_mag
+      Dependencies: {}
+    Info_1355:
+      Name: c1544_spark_torso
+      Dependencies: {}
+    Info_1356:
+      Name: c1814_weapon_umbrella
+      Dependencies: {}
+    Info_1357:
+      Name: c1866_bolton_ponytail
+      Dependencies: {}
+    Info_1358:
+      Name: c1554_weapon_guitar_club
+      Dependencies: {}
+    Info_1359:
+      Name: c1095_armor_arm_rock_l
+      Dependencies: {}
+    Info_1360:
+      Name: c1103_armor_shoulder_spiked_l
+      Dependencies: {}
+    Info_1361:
+      Name: c1520_weapon_bazookabone
+      Dependencies: {}
+    Info_1362:
+      Name: c1193_armor_shoulder_tech_l
+      Dependencies: {}
+    Info_1363:
+      Name: c603_bird_armor_arm_l
+      Dependencies: {}
+    Info_1364:
+      Name: c1239_nature_head
+      Dependencies: {}
+    Info_1365:
+      Name: c1084_armor_shoulder_double_l
+      Dependencies: {}
+    Info_1366:
+      Name: c2002_armor_backpack_baby
+      Dependencies: {}
+    Info_1367:
+      Name: c1297_doom_head
+      Dependencies: {}
+    Info_1368:
+      Name: c1873_weapon_pistol_nautilus
+      Dependencies: {}
+    Info_1369:
+      Name: c1630_armor_shoulder_faun_l
+      Dependencies: {}
+    Info_1370:
+      Name: c1515_ears_earmuffs_l
+      Dependencies: {}
+    Info_1371:
+      Name: c1166_armor_shoulder_fire_r
+      Dependencies: {}
+    Info_1372:
+      Name: c1253_armor_arm_beads_l
+      Dependencies: {}
+    Info_1373:
+      Name: c1281_armor_backpack_stackpack
+      Dependencies: {}
+    Info_1374:
+      Name: c1475_weapon_bow_french
+      Dependencies: {}
+    Info_1375:
+      Name: c1088_armor_leg_beatup_r
+      Dependencies: {}
+    Info_1376:
+      Name: c1072_weapon_doubletrident
+      Dependencies: {}
+    Info_1377:
+      Name: c1157_armor_arm_axe_r
+      Dependencies: {}
+    Info_1378:
+      Name: c1359_weapon_vinespike
+      Dependencies: {}
+    Info_1379:
+      Name: c1669_spunk_head
+      Dependencies: {}
+    Info_1380:
+      Name: c1105_armor_shoulder_gear_r
+      Dependencies: {}
+    Info_1381:
+      Name: c1611_firebird_torso
+      Dependencies: {}
+    Info_1382:
+      Name: c1610_ears_firebird_r
+      Dependencies: {}
+    Info_1383:
+      Name: c2039_boye_head
+      Dependencies: {}
+    Info_1384:
+      Name: c1519_ears_dbaz_r
+      Dependencies: {}
+    Info_1385:
+      Name: c1961_mushroom_head
+      Dependencies: {}
+    Info_1386:
+      Name: c1416_ears_bat_r
+      Dependencies: {}
+    Info_1387:
+      Name: c1347_bikechain_l
+      Dependencies: {}
+    Info_1388:
+      Name: c2033_boya_head
+      Dependencies: {}
+    Info_1389:
+      Name: c1697_hat_raver
+      Dependencies: {}
+    Info_1390:
+      Name: c1849_weapon_elecstar
+      Dependencies: {}
+    Info_1391:
+      Name: c1484_weapon_bonestaff
+      Dependencies: {}
+    Info_1392:
+      Name: c1246_maleyoungb_head_eyes
+      Dependencies: {}
+    Info_1393:
+      Name: c1237_armor_shoulder_etched_r
+      Dependencies: {}
+    Info_1394:
+      Name: c1858_ears_antenna_r
+      Dependencies: {}
+    Info_1395:
+      Name: c2043_athlete_legs
+      Dependencies: {}
+    Info_1396:
+      Name: c1287_armor_backpack_cheesewing
+      Dependencies: {}
+    Info_1397:
+      Name: c2060_weapon_bow_armony
+      Dependencies: {}
+    Info_1398:
+      Name: c1872_rat_tail
+      Dependencies: {}
+    Info_1399:
+      Name: c1003_robot_arms
+      Dependencies: {}
+    Info_1400:
+      Name: c1898_weapon_bow_sunray
+      Dependencies: {}
+    Info_1401:
+      Name: c1730_armor_arm_iballs_l
+      Dependencies: {}
+    Info_1402:
+      Name: c1857_ears_satellite_r
+      Dependencies: {}
+    Info_1403:
+      Name: c1397_turtle_head
+      Dependencies: {}
+    Info_1404:
+      Name: c1957_weapon_skull
+      Dependencies: {}
+    Info_1405:
+      Name: c1815_weapon_hairdryer_gun
+      Dependencies: {}
+    Info_1406:
+      Name: c1760_armor_backpack_kaos
+      Dependencies: {}
+    Info_1407:
+      Name: c1093_armor_arm_metalspiral_l
+      Dependencies: {}
+    Info_1408:
+      Name: c2070_weapon_blade_crab
+      Dependencies: {}
+    Info_1409:
+      Name: c1545_spark_legs
+      Dependencies: {}
+    Info_1410:
+      Name: c1743_weapon_bow_bshot
+      Dependencies: {}
+    Info_1411:
+      Name: c1737_armor_leg_equestrian_r
+      Dependencies: {}
+    Info_1412:
+      Name: c1913_leaf_head
+      Dependencies: {}
+    Info_1413:
+      Name: d200_bolton_hair
+      Dependencies: {}
+    Info_1414:
+      Name: c1863_armor_shoulder_dbaz_l
+      Dependencies: {}
+    Info_1415:
+      Name: c1205_armor_arm_pizza_r
+      Dependencies: {}
+    Info_1416:
+      Name: c1030_skeleton_head_eyes
+      Dependencies: {}
+    Info_1417:
+      Name: c1145_ears_elf_r
+      Dependencies: {}
+    Info_1418:
+      Name: c2029_cyborg_head
+      Dependencies: {}
+    Info_1419:
+      Name: c1635_armor_leg_fireman_r
+      Dependencies: {}
+    Info_1420:
+      Name: c1350_brassknucklebones_l
+      Dependencies: {}
+    Info_1421:
+      Name: c1273_armor_shoulder_dspikes_r
+      Dependencies: {}
+    Info_1422:
+      Name: c1688_hat_mongol
+      Dependencies: {}
+    Info_1423:
+      Name: c1232_armor_shoulder_sun_l
+      Dependencies: {}
+    Info_1424:
+      Name: c1634_armor_arm_fireman_l
+      Dependencies: {}
+    Info_1425:
+      Name: c1683_hat_steampunk
+      Dependencies: {}
+    Info_1426:
+      Name: c1633_armor_shoulder_fireman_r
+      Dependencies: {}
+    Info_1427:
+      Name: c1378_studs_torso
+      Dependencies: {}
+    Info_1428:
+      Name: c1309_bolton_fin
+      Dependencies: {}
+    Info_1429:
+      Name: c2083_weapon_bazooka_octo
+      Dependencies: {}
+    Info_1430:
+      Name: c1509_bone_naga
+      Dependencies: {}
+    Info_1431:
+      Name: bazooka@animations
+      Dependencies: {}
+    Info_1432:
+      Name: archer@animations
+      Dependencies: {}
+    Info_1433:
+      Name: fists@animations
+      Dependencies: {}
+    Info_1434:
+      Name: sword@animations
+      Dependencies: {}
+    Info_1435:
+      Name: ninja@animations
+      Dependencies: {}
+    Info_1436:
+      Name: doubler@animations
+      Dependencies: {}
+    Info_1437:
+      Name: club@animations
+      Dependencies: {}
+    Info_1438:
+      Name: shaman@animations
+      Dependencies: {}
+    Info_1439:
+      Name: blades@animations
+      Dependencies: {}
+    Info_1440:
+      Name: pistols@animations
+      Dependencies: {}
